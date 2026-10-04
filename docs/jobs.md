@@ -10,11 +10,11 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-10-03 |
+| Last Scraped | 2026-10-04 |
 
 ## Current Job Listings (80)
 
-_Generated: 2026-10-03T15:45:12.251Z_
+_Generated: 2026-10-04T11:45:36.901Z_
 
 ### tehnician service - echipamente electromecanice
 
@@ -372,7 +372,7 @@ _Generated: 2026-10-03T15:45:12.251Z_
 - **Tags:** randstad romania srl, inviitor.ro, office, senior, engineer
 - **Status:** scraped
 
-### Finance &amp;amp;amp;amp; Accounting Coordinator (Hybrid, Bucuresti)
+### Finance &amp;amp;amp;amp;amp; Accounting Coordinator (Hybrid, Bucuresti)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/finance-accounting-coordinator-hybrid-bucuresti_bucuresti_5319/](https://www.randstad.ro/locuri-de-munca/finance-accounting-coordinator-hybrid-bucuresti_bucuresti_5319/)
 - **Work Mode:** on-site
