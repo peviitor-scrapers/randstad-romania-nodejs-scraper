@@ -10,11 +10,17 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-10-13 |
+| Last Scraped | 2026-10-14 |
 
-## Current Job Listings (119)
+## Current Job Listings (111)
 
-_Generated: 2026-10-13T13:31:32.750Z_
+_Generated: 2026-10-14T11:08:25.329Z_
+
+### coordonator interventii bucuresti – divizia energie
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/coordonator-interventii-bucuresti-divizia-energie_bucuresti_5426/](https://www.randstad.ro/locuri-de-munca/coordonator-interventii-bucuresti-divizia-energie_bucuresti_5426/)
+- **Location:** București
+- **Status:** scraped
 
 ### inginer proiectare instalații sanitare și stingere incendii
 
@@ -112,12 +118,6 @@ _Generated: 2026-10-13T13:31:32.750Z_
 - **Location:** București
 - **Status:** scraped
 
-### mtm / refa engineer
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/mtm-refa-engineer_ploiesti_5410/](https://www.randstad.ro/locuri-de-munca/mtm-refa-engineer_ploiesti_5410/)
-- **Location:** Ploiești
-- **Status:** scraped
-
 ### operator ambalare - oradea
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/operator-ambalare-oradea_oradea_5366/](https://www.randstad.ro/locuri-de-munca/operator-ambalare-oradea_oradea_5366/)
@@ -128,6 +128,12 @@ _Generated: 2026-10-13T13:31:32.750Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/operator-productie-mortare-uscate_oradea_5367/](https://www.randstad.ro/locuri-de-munca/operator-productie-mortare-uscate_oradea_5367/)
 - **Location:** Oradea
+- **Status:** scraped
+
+### mtm / refa engineer
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/mtm-refa-engineer_ploiesti_5410/](https://www.randstad.ro/locuri-de-munca/mtm-refa-engineer_ploiesti_5410/)
+- **Location:** Ploiești
 - **Status:** scraped
 
 ### electrician
@@ -190,44 +196,12 @@ _Generated: 2026-10-13T13:31:32.750Z_
 - **Location:** București
 - **Status:** scraped
 
-### supply chain specialist
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/supply-chain-specialist_bucuresti_5396/](https://www.randstad.ro/locuri-de-munca/supply-chain-specialist_bucuresti_5396/)
-- **Location:** București
-- **Status:** scraped
-
-### customer support with french (bucharest)
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-support-with-french-bucharest_bucuresti_5401/](https://www.randstad.ro/locuri-de-munca/customer-support-with-french-bucharest_bucuresti_5401/)
-- **Location:** București
-- **Status:** scraped
-
-### brand manager - fmcg
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/brand-manager-fmcg_bucuresti_5394/](https://www.randstad.ro/locuri-de-munca/brand-manager-fmcg_bucuresti_5394/)
-- **Location:** București
-- **Status:** scraped
-
-### channel manager
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/channel-manager_bucuresti_5393/](https://www.randstad.ro/locuri-de-munca/channel-manager_bucuresti_5393/)
-- **Location:** București
-- **Status:** scraped
-
-### Service &amp;amp;amp;amp;amp; Rental Sales Engineer
+### Service &amp;amp;amp;amp;amp;amp; Rental Sales Engineer
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/service-rental-sales-engineer_bucuresti_4975/](https://www.randstad.ro/locuri-de-munca/service-rental-sales-engineer_bucuresti_4975/)
 - **Work Mode:** on-site
 - **Location:** Bucuresti, Romania
 - **Tags:** randstad romania srl, inviitor.ro, service, rental, sales, engineer
-- **Status:** scraped
-
-### Sales representative HORECA
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-horeca_bucuresti_5202/](https://www.randstad.ro/locuri-de-munca/sales-representative-horeca_bucuresti_5202/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, sales, representative, horeca
 - **Status:** scraped
 
 ### Dealer Online with English
@@ -342,14 +316,6 @@ _Generated: 2026-10-13T13:31:32.750Z_
 - **Tags:** randstad romania srl, inviitor.ro, tehnician, mecatronist, satu, mare
 - **Status:** scraped
 
-### Tehnician service
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-service_bucuresti_5005/](https://www.randstad.ro/locuri-de-munca/tehnician-service_bucuresti_5005/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, tehnician, service
-- **Status:** scraped
-
 ### Sales Representative B2B
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-b2b_bucuresti_5186/](https://www.randstad.ro/locuri-de-munca/sales-representative-b2b_bucuresti_5186/)
@@ -414,46 +380,6 @@ _Generated: 2026-10-13T13:31:32.750Z_
 - **Tags:** randstad romania srl, inviitor.ro, tehnician, sisteme, securitate
 - **Status:** scraped
 
-### Electrician mentenanta Craiova
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-mentenanta-craiova_craiova_5392/](https://www.randstad.ro/locuri-de-munca/electrician-mentenanta-craiova_craiova_5392/)
-- **Work Mode:** on-site
-- **Location:** Craiova, Romania
-- **Tags:** randstad romania srl, inviitor.ro, electrician, mentenanta, craiova
-- **Status:** scraped
-
-### Asistent contractare
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/asistent-contractare_bucuresti_5391/](https://www.randstad.ro/locuri-de-munca/asistent-contractare_bucuresti_5391/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, asistent, contractare
-- **Status:** scraped
-
-### Electrician intretinere
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-intretinere_bucuresti_5387/](https://www.randstad.ro/locuri-de-munca/electrician-intretinere_bucuresti_5387/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, electrician, intretinere
-- **Status:** scraped
-
-### Inside Sales Engineer with German – IT Security &amp;amp; Data Protection
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/inside-sales-engineer-with-german-it-security-data-protection_bucuresti_5386/](https://www.randstad.ro/locuri-de-munca/inside-sales-engineer-with-german-it-security-data-protection_bucuresti_5386/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, inside, sales, engineer, with, german, security, data, protection
-- **Status:** scraped
-
-### Mecanic auto Bucuresti
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/mecanic-auto-bucuresti_bucuresti_5384/](https://www.randstad.ro/locuri-de-munca/mecanic-auto-bucuresti_bucuresti_5384/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, mecanic, auto, bucuresti
-- **Status:** scraped
-
 ### Agent Servicii Clienti B2B
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/agent-servicii-clienti-b2b_bucuresti_5383/](https://www.randstad.ro/locuri-de-munca/agent-servicii-clienti-b2b_bucuresti_5383/)
@@ -470,15 +396,7 @@ _Generated: 2026-10-13T13:31:32.750Z_
 - **Tags:** randstad romania srl, inviitor.ro, broker, imobiliar, senior
 - **Status:** scraped
 
-### Customer Service with English
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-with-english_bucuresti_5381/](https://www.randstad.ro/locuri-de-munca/customer-service-with-english_bucuresti_5381/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, customer, service, with, english
-- **Status:** scraped
-
-### Senior Payroll Analyst – France &amp;amp; European Scope
+### Senior Payroll Analyst – France &amp;amp;amp; European Scope
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/senior-payroll-analyst-france-european-scope_bucuresti_5356/](https://www.randstad.ro/locuri-de-munca/senior-payroll-analyst-france-european-scope_bucuresti_5356/)
 - **Work Mode:** on-site
@@ -558,22 +476,6 @@ _Generated: 2026-10-13T13:31:32.750Z_
 - **Tags:** randstad romania srl, inviitor.ro, operatori, productie, textila
 - **Status:** scraped
 
-### Senior Benefit Analyst - Remote
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/senior-benefit-analyst-remote_bucuresti_5354/](https://www.randstad.ro/locuri-de-munca/senior-benefit-analyst-remote_bucuresti_5354/)
-- **Work Mode:** remote
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, senior, benefit, analyst, remote
-- **Status:** scraped
-
-### Customer Service with French (Hybrid, Bucharest)
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-with-french-hybrid-bucharest_bucuresti_5353/](https://www.randstad.ro/locuri-de-munca/customer-service-with-french-hybrid-bucharest_bucuresti_5353/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, customer, service, with, french, hybrid, bucharest
-- **Status:** scraped
-
 ### Application Engineer
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/application-engineer_satu-mare_5346/](https://www.randstad.ro/locuri-de-munca/application-engineer_satu-mare_5346/)
@@ -596,14 +498,6 @@ _Generated: 2026-10-13T13:31:32.750Z_
 - **Work Mode:** on-site
 - **Location:** Chitila, Romania
 - **Tags:** randstad romania srl, inviitor.ro, sofer-, transport, rutier, marfuri
-- **Status:** scraped
-
-### Business Developer
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/business-developer_bucuresti_5342/](https://www.randstad.ro/locuri-de-munca/business-developer_bucuresti_5342/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, business, developer
 - **Status:** scraped
 
 ### Lacatus mecanic
@@ -670,7 +564,7 @@ _Generated: 2026-10-13T13:31:32.750Z_
 - **Tags:** randstad romania srl, inviitor.ro, office, senior, engineer
 - **Status:** scraped
 
-### Finance &amp;amp; Accounting Coordinator (Hybrid, Bucuresti)
+### Finance &amp;amp;amp; Accounting Coordinator (Hybrid, Bucuresti)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/finance-accounting-coordinator-hybrid-bucuresti_bucuresti_5319/](https://www.randstad.ro/locuri-de-munca/finance-accounting-coordinator-hybrid-bucuresti_bucuresti_5319/)
 - **Work Mode:** on-site
@@ -684,22 +578,6 @@ _Generated: 2026-10-13T13:31:32.750Z_
 - **Work Mode:** on-site
 - **Location:** Brașov, Romania
 - **Tags:** randstad romania srl, inviitor.ro, recruiter, blue, collar
-- **Status:** scraped
-
-### Account representative (publicitate)
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/account-representative-publicitate_arad_5257/](https://www.randstad.ro/locuri-de-munca/account-representative-publicitate_arad_5257/)
-- **Work Mode:** on-site
-- **Location:** Arad, Romania
-- **Tags:** randstad romania srl, inviitor.ro, account, representative, publicitate
-- **Status:** scraped
-
-### Business Development Manager - B2B Parcuri Fotovoltaice
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/business-development-manager-b2b-parcuri-fotovoltaice_voluntari_5075/](https://www.randstad.ro/locuri-de-munca/business-development-manager-b2b-parcuri-fotovoltaice_voluntari_5075/)
-- **Work Mode:** on-site
-- **Location:** Voluntari, Romania
-- **Tags:** randstad romania srl, inviitor.ro, business, development, manager, b2b, parcuri, fotovoltaice
 - **Status:** scraped
 
 ### Variant Configurator Engineer / SAP AVC Expert
@@ -886,12 +764,20 @@ _Generated: 2026-10-13T13:31:32.750Z_
 - **Tags:** randstad romania srl, inviitor.ro, customer, service, with, italian, hybrid
 - **Status:** scraped
 
-### Customer Support with Dutch (Bucharest)
+### Sales representative HORECA
 
-- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-support-with-dutch-bucharest_bucuresti_5404/](https://www.randstad.ro/locuri-de-munca/customer-support-with-dutch-bucharest_bucuresti_5404/)
+- **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-horeca_bucuresti_5202/](https://www.randstad.ro/locuri-de-munca/sales-representative-horeca_bucuresti_5202/)
 - **Work Mode:** on-site
 - **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, customer, support, with, dutch, bucharest
+- **Tags:** randstad romania srl, inviitor.ro, sales, representative, horeca
+- **Status:** scraped
+
+### Account representative (publicitate)
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/account-representative-publicitate_arad_5257/](https://www.randstad.ro/locuri-de-munca/account-representative-publicitate_arad_5257/)
+- **Work Mode:** on-site
+- **Location:** Arad, Romania
+- **Tags:** randstad romania srl, inviitor.ro, account, representative, publicitate
 - **Status:** scraped
 
 ### Service &amp; Rental Sales Engineer
@@ -900,4 +786,60 @@ _Generated: 2026-10-13T13:31:32.750Z_
 - **Work Mode:** on-site
 - **Location:** Brașov, Romania
 - **Tags:** randstad romania srl, inviitor.ro, service, rental, sales, engineer
+- **Status:** scraped
+
+### Supply Chain Specialist
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/supply-chain-specialist_bucuresti_5396/](https://www.randstad.ro/locuri-de-munca/supply-chain-specialist_bucuresti_5396/)
+- **Work Mode:** on-site
+- **Location:** Bucuresti, Romania
+- **Tags:** randstad romania srl, inviitor.ro, supply, chain, specialist
+- **Status:** scraped
+
+### Channel manager
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/channel-manager_bucuresti_5393/](https://www.randstad.ro/locuri-de-munca/channel-manager_bucuresti_5393/)
+- **Work Mode:** on-site
+- **Location:** Bucuresti, Romania
+- **Tags:** randstad romania srl, inviitor.ro, channel, manager
+- **Status:** scraped
+
+### Brand Manager - FMCG
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/brand-manager-fmcg_bucuresti_5394/](https://www.randstad.ro/locuri-de-munca/brand-manager-fmcg_bucuresti_5394/)
+- **Work Mode:** on-site
+- **Location:** Bucuresti, Romania
+- **Tags:** randstad romania srl, inviitor.ro, brand, manager, fmcg
+- **Status:** scraped
+
+### Electrician mentenanta Craiova
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-mentenanta-craiova_craiova_5392/](https://www.randstad.ro/locuri-de-munca/electrician-mentenanta-craiova_craiova_5392/)
+- **Work Mode:** on-site
+- **Location:** Craiova, Romania
+- **Tags:** randstad romania srl, inviitor.ro, electrician, mentenanta, craiova
+- **Status:** scraped
+
+### Asistent contractare
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/asistent-contractare_bucuresti_5391/](https://www.randstad.ro/locuri-de-munca/asistent-contractare_bucuresti_5391/)
+- **Work Mode:** on-site
+- **Location:** Bucuresti, Romania
+- **Tags:** randstad romania srl, inviitor.ro, asistent, contractare
+- **Status:** scraped
+
+### Electrician intretinere
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-intretinere_bucuresti_5387/](https://www.randstad.ro/locuri-de-munca/electrician-intretinere_bucuresti_5387/)
+- **Work Mode:** on-site
+- **Location:** Bucuresti, Romania
+- **Tags:** randstad romania srl, inviitor.ro, electrician, intretinere
+- **Status:** scraped
+
+### Inside Sales Engineer with German – IT Security &amp; Data Protection
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/inside-sales-engineer-with-german-it-security-data-protection_bucuresti_5386/](https://www.randstad.ro/locuri-de-munca/inside-sales-engineer-with-german-it-security-data-protection_bucuresti_5386/)
+- **Work Mode:** on-site
+- **Location:** Bucuresti, Romania
+- **Tags:** randstad romania srl, inviitor.ro, inside, sales, engineer, with, german, security, data, protection
 - **Status:** scraped
