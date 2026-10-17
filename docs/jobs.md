@@ -10,11 +10,23 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-10-16 |
+| Last Scraped | 2026-10-17 |
 
-## Current Job Listings (30)
+## Current Job Listings (32)
 
-_Generated: 2026-10-16T10:39:42.784Z_
+_Generated: 2026-10-17T10:07:45.966Z_
+
+### technical support&projects coordinator
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
+- **Location:** București
+- **Status:** scraped
+
+### accounting specialist (ap)
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/accounting-specialist-ap_bucuresti_5430/](https://www.randstad.ro/locuri-de-munca/accounting-specialist-ap_bucuresti_5430/)
+- **Location:** București
+- **Status:** scraped
 
 ### technical customer service admin (english)
 
@@ -68,12 +80,6 @@ _Generated: 2026-10-16T10:39:42.784Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/operator-productie-textila-in-bacau_bacau_5423/](https://www.randstad.ro/locuri-de-munca/operator-productie-textila-in-bacau_bacau_5423/)
 - **Location:** Bacau
-- **Status:** scraped
-
-### contract sales support
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/contract-sales-support_bucuresti_5422/](https://www.randstad.ro/locuri-de-munca/contract-sales-support_bucuresti_5422/)
-- **Location:** București
 - **Status:** scraped
 
 ### customer care specialist
@@ -136,6 +142,12 @@ _Generated: 2026-10-16T10:39:42.784Z_
 - **Location:** București
 - **Status:** scraped
 
+### electrician
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician_oradea_5358/](https://www.randstad.ro/locuri-de-munca/electrician_oradea_5358/)
+- **Location:** Oradea
+- **Status:** scraped
+
 ### operator ambalare - oradea
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/operator-ambalare-oradea_oradea_5366/](https://www.randstad.ro/locuri-de-munca/operator-ambalare-oradea_oradea_5366/)
@@ -152,12 +164,6 @@ _Generated: 2026-10-16T10:39:42.784Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/mtm-refa-engineer_ploiesti_5410/](https://www.randstad.ro/locuri-de-munca/mtm-refa-engineer_ploiesti_5410/)
 - **Location:** Ploiești
-- **Status:** scraped
-
-### electrician
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician_oradea_5358/](https://www.randstad.ro/locuri-de-munca/electrician_oradea_5358/)
-- **Location:** Oradea
 - **Status:** scraped
 
 ### technical clarification engineer
@@ -187,6 +193,12 @@ _Generated: 2026-10-16T10:39:42.784Z_
 ### technical customer support cu germana
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-customer-support-cu-germana_bucuresti_5399/](https://www.randstad.ro/locuri-de-munca/technical-customer-support-cu-germana_bucuresti_5399/)
+- **Location:** București
+- **Status:** scraped
+
+### contract sales support
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/contract-sales-support_bucuresti_5422/](https://www.randstad.ro/locuri-de-munca/contract-sales-support_bucuresti_5422/)
 - **Location:** București
 - **Status:** scraped
 
