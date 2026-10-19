@@ -10,11 +10,83 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-10-18 |
+| Last Scraped | 2026-10-19 |
 
-## Current Job Listings (84)
+## Current Job Listings (96)
 
-_Generated: 2026-10-18T10:21:33.879Z_
+_Generated: 2026-10-19T12:03:57.284Z_
+
+### frigotehnist pentru fabrica de productie
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/frigotehnist-pentru-fabrica-de-productie_pantelimon_5442/](https://www.randstad.ro/locuri-de-munca/frigotehnist-pentru-fabrica-de-productie_pantelimon_5442/)
+- **Location:** Pantelimon
+- **Status:** scraped
+
+### frigotehnist iasi-
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/frigotehnist-iasi-_iasi_5445/](https://www.randstad.ro/locuri-de-munca/frigotehnist-iasi-_iasi_5445/)
+- **Location:** Iasi
+- **Status:** scraped
+
+### operator productie
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5444/](https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5444/)
+- **Location:** Sibiu
+- **Status:** scraped
+
+### fochist fabrica productie
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/fochist-fabrica-productie_pantelimon_5440/](https://www.randstad.ro/locuri-de-munca/fochist-fabrica-productie_pantelimon_5440/)
+- **Location:** Pantelimon
+- **Status:** scraped
+
+### electrician intretinere
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-intretinere_pantelimon_5446/](https://www.randstad.ro/locuri-de-munca/electrician-intretinere_pantelimon_5446/)
+- **Location:** Pantelimon
+- **Status:** scraped
+
+### operator tratare apa
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-tratare-apa_pantelimon_5443/](https://www.randstad.ro/locuri-de-munca/operator-tratare-apa_pantelimon_5443/)
+- **Location:** Pantelimon
+- **Status:** scraped
+
+### electrician bucuresti -
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-bucuresti-_bucuresti_5438/](https://www.randstad.ro/locuri-de-munca/electrician-bucuresti-_bucuresti_5438/)
+- **Location:** București
+- **Status:** scraped
+
+### operator productie
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-productie_pantelimon_5437/](https://www.randstad.ro/locuri-de-munca/operator-productie_pantelimon_5437/)
+- **Location:** Pantelimon
+- **Status:** scraped
+
+### lacatus mecanic
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/lacatus-mecanic_bucuresti_5439/](https://www.randstad.ro/locuri-de-munca/lacatus-mecanic_bucuresti_5439/)
+- **Location:** București
+- **Status:** scraped
+
+### technical customer support cu germana (on site)
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/technical-customer-support-cu-germana-on-site_bucuresti_5436/](https://www.randstad.ro/locuri-de-munca/technical-customer-support-cu-germana-on-site_bucuresti_5436/)
+- **Location:** București
+- **Status:** scraped
+
+### electrician slatina
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-slatina_slatina_5435/](https://www.randstad.ro/locuri-de-munca/electrician-slatina_slatina_5435/)
+- **Location:** Slatina
+- **Status:** scraped
+
+### technical customer service with french (hybrid)
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/technical-customer-service-with-french-hybrid_bucuresti_5162/](https://www.randstad.ro/locuri-de-munca/technical-customer-service-with-french-hybrid_bucuresti_5162/)
+- **Location:** București
+- **Status:** scraped
 
 ### technical support&projects coordinator
 
@@ -316,7 +388,7 @@ _Generated: 2026-10-18T10:21:33.879Z_
 - **Tags:** randstad romania srl, inviitor.ro, office, senior, engineer
 - **Status:** scraped
 
-### Finance &amp; Accounting Coordinator (Hybrid, Bucuresti)
+### Finance &amp;amp; Accounting Coordinator (Hybrid, Bucuresti)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/finance-accounting-coordinator-hybrid-bucuresti_bucuresti_5319/](https://www.randstad.ro/locuri-de-munca/finance-accounting-coordinator-hybrid-bucuresti_bucuresti_5319/)
 - **Work Mode:** on-site
