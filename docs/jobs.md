@@ -10,11 +10,23 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-10-20 |
+| Last Scraped | 2026-10-21 |
 
-## Current Job Listings (95)
+## Current Job Listings (93)
 
-_Generated: 2026-10-20T10:54:34.680Z_
+_Generated: 2026-10-21T11:08:10.133Z_
+
+### inginer proiectare instalații sanitare și stingere incendii
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_4992/](https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_4992/)
+- **Location:** București
+- **Status:** scraped
+
+### junior specialist accounting & finance with italian (bucuresti)
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_4839/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_4839/)
+- **Location:** București
+- **Status:** scraped
 
 ### tehnician mentenanta cladiri
 
@@ -214,12 +226,6 @@ _Generated: 2026-10-20T10:54:34.680Z_
 - **Location:** București
 - **Status:** scraped
 
-### inginer proiectare instalații sanitare și stingere incendii
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_4992/](https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_4992/)
-- **Location:** București
-- **Status:** scraped
-
 ### operator productie
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5140/](https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5140/)
@@ -260,12 +266,6 @@ _Generated: 2026-10-20T10:54:34.680Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/agent-vanzari-inchirieri-auto_bucuresti_5417/](https://www.randstad.ro/locuri-de-munca/agent-vanzari-inchirieri-auto_bucuresti_5417/)
 - **Location:** București
-- **Status:** scraped
-
-### stivuitorist
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/stivuitorist_bolintin-deal_5416/](https://www.randstad.ro/locuri-de-munca/stivuitorist_bolintin-deal_5416/)
-- **Location:** Bolintin-Deal
 - **Status:** scraped
 
 ### customer support with german
@@ -434,20 +434,12 @@ _Generated: 2026-10-20T10:54:34.680Z_
 - **Tags:** randstad romania srl, inviitor.ro, office, senior, engineer
 - **Status:** scraped
 
-### Finance &amp;amp;amp; Accounting Coordinator (Hybrid, Bucuresti)
+### Finance &amp;amp;amp;amp; Accounting Coordinator (Hybrid, Bucuresti)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/finance-accounting-coordinator-hybrid-bucuresti_bucuresti_5319/](https://www.randstad.ro/locuri-de-munca/finance-accounting-coordinator-hybrid-bucuresti_bucuresti_5319/)
 - **Work Mode:** on-site
 - **Location:** Bucuresti, Romania
 - **Tags:** randstad romania srl, inviitor.ro, finance, accounting, coordinator, hybrid, bucuresti
-- **Status:** scraped
-
-### Variant Configurator Engineer / SAP AVC Expert
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/variant-configurator-engineer-sap-avc-expert_ploiesti_5312/](https://www.randstad.ro/locuri-de-munca/variant-configurator-engineer-sap-avc-expert_ploiesti_5312/)
-- **Work Mode:** on-site
-- **Location:** Ploiesti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, variant, configurator, engineer, sap, avc, expert
 - **Status:** scraped
 
 ### Operator productie
@@ -496,14 +488,6 @@ _Generated: 2026-10-20T10:54:34.680Z_
 - **Work Mode:** on-site
 - **Location:** Pantelimon, Romania
 - **Tags:** randstad romania srl, inviitor.ro, operator, tratare, apa
-- **Status:** scraped
-
-### Office Administrator
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/office-administrator_bucuresti_5348/](https://www.randstad.ro/locuri-de-munca/office-administrator_bucuresti_5348/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, office, administrator
 - **Status:** scraped
 
 ### Game presenter
