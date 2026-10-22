@@ -10,11 +10,23 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-10-21 |
+| Last Scraped | 2026-10-22 |
 
-## Current Job Listings (93)
+## Current Job Listings (94)
 
-_Generated: 2026-10-21T11:08:10.133Z_
+_Generated: 2026-10-22T11:08:00.276Z_
+
+### specialist operational – proiecte fotovoltaice
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/specialist-operational-proiecte-fotovoltaice_voluntari_5458/](https://www.randstad.ro/locuri-de-munca/specialist-operational-proiecte-fotovoltaice_voluntari_5458/)
+- **Location:** Voluntari
+- **Status:** scraped
+
+### inginer ofertare - proiecte fotovoltaice
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-ofertare-proiecte-fotovoltaice_voluntari_5459/](https://www.randstad.ro/locuri-de-munca/inginer-ofertare-proiecte-fotovoltaice_voluntari_5459/)
+- **Location:** Voluntari
+- **Status:** scraped
 
 ### inginer proiectare instalații sanitare și stingere incendii
 
@@ -100,10 +112,10 @@ _Generated: 2026-10-21T11:08:10.133Z_
 - **Location:** Slatina
 - **Status:** scraped
 
-### game presenter
+### operator debitare și asamblare
 
-- **URL:** [https://www.randstad.ro/locuri-de-munca/game-presenter_bucuresti_5450/](https://www.randstad.ro/locuri-de-munca/game-presenter_bucuresti_5450/)
-- **Location:** București
+- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-debitare-si-asamblare_popesti-leordeni_5448/](https://www.randstad.ro/locuri-de-munca/operator-debitare-si-asamblare_popesti-leordeni_5448/)
+- **Location:** Popesti-Leordeni
 - **Status:** scraped
 
 ### operator cnc
@@ -112,16 +124,16 @@ _Generated: 2026-10-21T11:08:10.133Z_
 - **Location:** Popesti-Leordeni
 - **Status:** scraped
 
-### operator debitare și asamblare
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-debitare-si-asamblare_popesti-leordeni_5448/](https://www.randstad.ro/locuri-de-munca/operator-debitare-si-asamblare_popesti-leordeni_5448/)
-- **Location:** Popesti-Leordeni
-- **Status:** scraped
-
 ### electrician intretinere
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-intretinere_slatina_5447/](https://www.randstad.ro/locuri-de-munca/electrician-intretinere_slatina_5447/)
 - **Location:** Slatina
+- **Status:** scraped
+
+### operator productie
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5444/](https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5444/)
+- **Location:** Sibiu
 - **Status:** scraped
 
 ### electrician intretinere
@@ -148,24 +160,6 @@ _Generated: 2026-10-21T11:08:10.133Z_
 - **Location:** Iasi
 - **Status:** scraped
 
-### fochist fabrica productie
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/fochist-fabrica-productie_pantelimon_5440/](https://www.randstad.ro/locuri-de-munca/fochist-fabrica-productie_pantelimon_5440/)
-- **Location:** Pantelimon
-- **Status:** scraped
-
-### operator productie
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5444/](https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5444/)
-- **Location:** Sibiu
-- **Status:** scraped
-
-### lacatus mecanic
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/lacatus-mecanic_bucuresti_5439/](https://www.randstad.ro/locuri-de-munca/lacatus-mecanic_bucuresti_5439/)
-- **Location:** București
-- **Status:** scraped
-
 ### electrician bucuresti -
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-bucuresti-_bucuresti_5438/](https://www.randstad.ro/locuri-de-munca/electrician-bucuresti-_bucuresti_5438/)
@@ -176,6 +170,12 @@ _Generated: 2026-10-21T11:08:10.133Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/operator-productie_pantelimon_5437/](https://www.randstad.ro/locuri-de-munca/operator-productie_pantelimon_5437/)
 - **Location:** Pantelimon
+- **Status:** scraped
+
+### lacatus mecanic
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/lacatus-mecanic_bucuresti_5439/](https://www.randstad.ro/locuri-de-munca/lacatus-mecanic_bucuresti_5439/)
+- **Location:** București
 - **Status:** scraped
 
 ### technical customer support cu germana (on site)
@@ -194,6 +194,18 @@ _Generated: 2026-10-21T11:08:10.133Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
+- **Status:** scraped
+
+### game presenter
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/game-presenter_bucuresti_5450/](https://www.randstad.ro/locuri-de-munca/game-presenter_bucuresti_5450/)
+- **Location:** București
+- **Status:** scraped
+
+### fochist fabrica productie
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/fochist-fabrica-productie_pantelimon_5440/](https://www.randstad.ro/locuri-de-munca/fochist-fabrica-productie_pantelimon_5440/)
+- **Location:** Pantelimon
 - **Status:** scraped
 
 ### accounting specialist (ap)
@@ -265,12 +277,6 @@ _Generated: 2026-10-21T11:08:10.133Z_
 ### agent vanzari inchirieri auto
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/agent-vanzari-inchirieri-auto_bucuresti_5417/](https://www.randstad.ro/locuri-de-munca/agent-vanzari-inchirieri-auto_bucuresti_5417/)
-- **Location:** București
-- **Status:** scraped
-
-### customer support with german
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-support-with-german_bucuresti_5415/](https://www.randstad.ro/locuri-de-munca/customer-support-with-german_bucuresti_5415/)
 - **Location:** București
 - **Status:** scraped
 
@@ -434,7 +440,7 @@ _Generated: 2026-10-21T11:08:10.133Z_
 - **Tags:** randstad romania srl, inviitor.ro, office, senior, engineer
 - **Status:** scraped
 
-### Finance &amp;amp;amp;amp; Accounting Coordinator (Hybrid, Bucuresti)
+### Finance &amp;amp;amp;amp;amp; Accounting Coordinator (Hybrid, Bucuresti)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/finance-accounting-coordinator-hybrid-bucuresti_bucuresti_5319/](https://www.randstad.ro/locuri-de-munca/finance-accounting-coordinator-hybrid-bucuresti_bucuresti_5319/)
 - **Work Mode:** on-site
