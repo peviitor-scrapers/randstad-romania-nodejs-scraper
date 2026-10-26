@@ -10,11 +10,11 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-10-25 |
+| Last Scraped | 2026-10-26 |
 
 ## Current Job Listings (91)
 
-_Generated: 2026-10-25T10:40:31.082Z_
+_Generated: 2026-10-26T12:13:28.111Z_
 
 ### agent servicii clienti b2b - remote
 
@@ -82,16 +82,16 @@ _Generated: 2026-10-25T10:40:31.082Z_
 - **Location:** Bolintin-Deal
 - **Status:** scraped
 
-### lucrator necalificat (construcții), germania.
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/lucrator-necalificat-constructii-germania_rostock_5455/](https://www.randstad.ro/locuri-de-munca/lucrator-necalificat-constructii-germania_rostock_5455/)
-- **Location:** Rostock
-- **Status:** scraped
-
 ### sudor mig-mag
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/sudor-mig-mag_bucuresti_5288/](https://www.randstad.ro/locuri-de-munca/sudor-mig-mag_bucuresti_5288/)
 - **Location:** București
+- **Status:** scraped
+
+### lucrator necalificat (construcții), germania.
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/lucrator-necalificat-constructii-germania_rostock_5455/](https://www.randstad.ro/locuri-de-munca/lucrator-necalificat-constructii-germania_rostock_5455/)
+- **Location:** Rostock
 - **Status:** scraped
 
 ### operator masini automate/manipulant
@@ -214,7 +214,7 @@ _Generated: 2026-10-25T10:40:31.082Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical support&amp;amp;projects coordinator
+### technical support&amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
