@@ -10,11 +10,23 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
-## Current Job Listings (91)
+## Current Job Listings (92)
 
-_Generated: 2026-10-26T12:13:28.111Z_
+_Generated: 2026-10-27T11:34:25.390Z_
+
+### manager mentenanță
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-mentenanta_bolintin-deal_5463/](https://www.randstad.ro/locuri-de-munca/manager-mentenanta_bolintin-deal_5463/)
+- **Location:** Bolintin-Deal
+- **Status:** scraped
+
+### regional hr business partner
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/regional-hr-business-partner_bucuresti_5462/](https://www.randstad.ro/locuri-de-munca/regional-hr-business-partner_bucuresti_5462/)
+- **Location:** București
+- **Status:** scraped
 
 ### agent servicii clienti b2b - remote
 
@@ -136,15 +148,15 @@ _Generated: 2026-10-26T12:13:28.111Z_
 - **Location:** Slatina
 - **Status:** scraped
 
-### operator debitare și asamblare
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-debitare-si-asamblare_popesti-leordeni_5448/](https://www.randstad.ro/locuri-de-munca/operator-debitare-si-asamblare_popesti-leordeni_5448/)
-- **Location:** Popesti-Leordeni
-- **Status:** scraped
-
 ### operator cnc
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/operator-cnc_popesti-leordeni_5449/](https://www.randstad.ro/locuri-de-munca/operator-cnc_popesti-leordeni_5449/)
+- **Location:** Popesti-Leordeni
+- **Status:** scraped
+
+### operator debitare și asamblare
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-debitare-si-asamblare_popesti-leordeni_5448/](https://www.randstad.ro/locuri-de-munca/operator-debitare-si-asamblare_popesti-leordeni_5448/)
 - **Location:** Popesti-Leordeni
 - **Status:** scraped
 
@@ -152,12 +164,6 @@ _Generated: 2026-10-26T12:13:28.111Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-intretinere_slatina_5447/](https://www.randstad.ro/locuri-de-munca/electrician-intretinere_slatina_5447/)
 - **Location:** Slatina
-- **Status:** scraped
-
-### operator productie
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5444/](https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5444/)
-- **Location:** Sibiu
 - **Status:** scraped
 
 ### electrician intretinere
@@ -170,6 +176,12 @@ _Generated: 2026-10-26T12:13:28.111Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/operator-tratare-apa_pantelimon_5443/](https://www.randstad.ro/locuri-de-munca/operator-tratare-apa_pantelimon_5443/)
 - **Location:** Pantelimon
+- **Status:** scraped
+
+### operator productie
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5444/](https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5444/)
+- **Location:** Sibiu
 - **Status:** scraped
 
 ### frigotehnist pentru fabrica de productie
@@ -214,7 +226,7 @@ _Generated: 2026-10-26T12:13:28.111Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical support&amp;amp;amp;projects coordinator
+### technical support&amp;amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
@@ -410,14 +422,6 @@ _Generated: 2026-10-26T12:13:28.111Z_
 - **Work Mode:** on-site
 - **Location:** Bucuresti, Romania
 - **Tags:** randstad romania srl, inviitor.ro, lacatus, mecanic
-- **Status:** scraped
-
-### Accounts Receivable with English
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/accounts-receivable-with-english_bucuresti_5330/](https://www.randstad.ro/locuri-de-munca/accounts-receivable-with-english_bucuresti_5330/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, accounts, receivable, with, english
 - **Status:** scraped
 
 ### Project Manager instalatii electrice
