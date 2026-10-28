@@ -10,11 +10,53 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-10-27 |
+| Last Scraped | 2026-10-28 |
 
-## Current Job Listings (92)
+## Current Job Listings (97)
 
-_Generated: 2026-10-27T11:34:25.390Z_
+_Generated: 2026-10-28T12:05:07.411Z_
+
+### manager vanzari si marketing
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-vanzari-si-marketing_bucuresti_5155/](https://www.randstad.ro/locuri-de-munca/manager-vanzari-si-marketing_bucuresti_5155/)
+- **Location:** București
+- **Status:** scraped
+
+### junior specialist accounting & finance with german (bucuresti/iasi)
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
+- **Location:** Iasi
+- **Status:** scraped
+
+### junior specialist accounting & finance with italian_ bucuresti
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_5469/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_5469/)
+- **Location:** București
+- **Status:** scraped
+
+### technical customer service admin (english)
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/technical-customer-service-admin-english_bucuresti_5467/](https://www.randstad.ro/locuri-de-munca/technical-customer-service-admin-english_bucuresti_5467/)
+- **Location:** București
+- **Status:** scraped
+
+### sef de schimb
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/sef-de-schimb_bolintin-deal_5466/](https://www.randstad.ro/locuri-de-munca/sef-de-schimb_bolintin-deal_5466/)
+- **Location:** Bolintin-Deal
+- **Status:** scraped
+
+### front office & administrative assistant
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/front-office-administrative-assistant_bolintin-deal_5465/](https://www.randstad.ro/locuri-de-munca/front-office-administrative-assistant_bolintin-deal_5465/)
+- **Location:** Bolintin-Deal
+- **Status:** scraped
+
+### director executiv
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/director-executiv_bucuresti_5464/](https://www.randstad.ro/locuri-de-munca/director-executiv_bucuresti_5464/)
+- **Location:** București
+- **Status:** scraped
 
 ### manager mentenanță
 
@@ -40,22 +82,16 @@ _Generated: 2026-10-27T11:34:25.390Z_
 - **Location:** București
 - **Status:** scraped
 
-### electrician
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician_oradea_5361/](https://www.randstad.ro/locuri-de-munca/electrician_oradea_5361/)
-- **Location:** Oradea
-- **Status:** scraped
-
 ### stivuitorist - ișalnita
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/stivuitorist-isalnita_corlatesti_5390/](https://www.randstad.ro/locuri-de-munca/stivuitorist-isalnita_corlatesti_5390/)
 - **Location:** Corlatesti
 - **Status:** scraped
 
-### specialist operational – proiecte fotovoltaice
+### electrician
 
-- **URL:** [https://www.randstad.ro/locuri-de-munca/specialist-operational-proiecte-fotovoltaice_voluntari_5458/](https://www.randstad.ro/locuri-de-munca/specialist-operational-proiecte-fotovoltaice_voluntari_5458/)
-- **Location:** Voluntari
+- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician_oradea_5361/](https://www.randstad.ro/locuri-de-munca/electrician_oradea_5361/)
+- **Location:** Oradea
 - **Status:** scraped
 
 ### inginer ofertare - proiecte fotovoltaice
@@ -64,15 +100,15 @@ _Generated: 2026-10-27T11:34:25.390Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
+### specialist operational – proiecte fotovoltaice
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/specialist-operational-proiecte-fotovoltaice_voluntari_5458/](https://www.randstad.ro/locuri-de-munca/specialist-operational-proiecte-fotovoltaice_voluntari_5458/)
+- **Location:** Voluntari
+- **Status:** scraped
+
 ### inginer proiectare instalații sanitare și stingere incendii
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_4992/](https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_4992/)
-- **Location:** București
-- **Status:** scraped
-
-### junior specialist accounting & finance with italian (bucuresti)
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_4839/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_4839/)
 - **Location:** București
 - **Status:** scraped
 
@@ -106,6 +142,12 @@ _Generated: 2026-10-27T11:34:25.390Z_
 - **Location:** Rostock
 - **Status:** scraped
 
+### lacatus confectii metalice
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/lacatus-confectii-metalice_bucuresti_5286/](https://www.randstad.ro/locuri-de-munca/lacatus-confectii-metalice_bucuresti_5286/)
+- **Location:** București
+- **Status:** scraped
+
 ### operator masini automate/manipulant
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/operator-masini-automatemanipulant_ploiesti_5408/](https://www.randstad.ro/locuri-de-munca/operator-masini-automatemanipulant_ploiesti_5408/)
@@ -118,22 +160,10 @@ _Generated: 2026-10-27T11:34:25.390Z_
 - **Location:** Lehliu-Gara
 - **Status:** scraped
 
-### lacatus confectii metalice
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/lacatus-confectii-metalice_bucuresti_5286/](https://www.randstad.ro/locuri-de-munca/lacatus-confectii-metalice_bucuresti_5286/)
-- **Location:** București
-- **Status:** scraped
-
 ### lucrător în depozit, venlo, olanda
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/lucrator-in-depozit-venlo-olanda_venlo_5454/](https://www.randstad.ro/locuri-de-munca/lucrator-in-depozit-venlo-olanda_venlo_5454/)
 - **Location:** Venlo
-- **Status:** scraped
-
-### stivuitorist - bolintin
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/stivuitorist-bolintin_bolintin-deal_5453/](https://www.randstad.ro/locuri-de-munca/stivuitorist-bolintin_bolintin-deal_5453/)
-- **Location:** Bolintin-Deal
 - **Status:** scraped
 
 ### sofer- transport rutier de marfuri
@@ -142,10 +172,22 @@ _Generated: 2026-10-27T11:34:25.390Z_
 - **Location:** Chitila
 - **Status:** scraped
 
+### stivuitorist - bolintin
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/stivuitorist-bolintin_bolintin-deal_5453/](https://www.randstad.ro/locuri-de-munca/stivuitorist-bolintin_bolintin-deal_5453/)
+- **Location:** Bolintin-Deal
+- **Status:** scraped
+
 ### electrician
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/electrician_slatina_5451/](https://www.randstad.ro/locuri-de-munca/electrician_slatina_5451/)
 - **Location:** Slatina
+- **Status:** scraped
+
+### operator debitare și asamblare
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-debitare-si-asamblare_popesti-leordeni_5448/](https://www.randstad.ro/locuri-de-munca/operator-debitare-si-asamblare_popesti-leordeni_5448/)
+- **Location:** Popesti-Leordeni
 - **Status:** scraped
 
 ### operator cnc
@@ -154,10 +196,10 @@ _Generated: 2026-10-27T11:34:25.390Z_
 - **Location:** Popesti-Leordeni
 - **Status:** scraped
 
-### operator debitare și asamblare
+### junior specialist accounting &amp; finance with italian (bucuresti)
 
-- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-debitare-si-asamblare_popesti-leordeni_5448/](https://www.randstad.ro/locuri-de-munca/operator-debitare-si-asamblare_popesti-leordeni_5448/)
-- **Location:** Popesti-Leordeni
+- **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_4839/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_4839/)
+- **Location:** București
 - **Status:** scraped
 
 ### electrician intretinere
@@ -193,7 +235,7 @@ _Generated: 2026-10-27T11:34:25.390Z_
 ### frigotehnist iasi-
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/frigotehnist-iasi-_iasi_5445/](https://www.randstad.ro/locuri-de-munca/frigotehnist-iasi-_iasi_5445/)
-- **Location:** Iasi
+- **Location:** Iași
 - **Status:** scraped
 
 ### electrician bucuresti -
@@ -220,13 +262,7 @@ _Generated: 2026-10-27T11:34:25.390Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical customer service with french (hybrid)
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/technical-customer-service-with-french-hybrid_bucuresti_5162/](https://www.randstad.ro/locuri-de-munca/technical-customer-service-with-french-hybrid_bucuresti_5162/)
-- **Location:** București
-- **Status:** scraped
-
-### technical support&amp;amp;amp;amp;projects coordinator
+### technical support&amp;amp;amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
@@ -319,12 +355,6 @@ _Generated: 2026-10-27T11:34:25.390Z_
 ### tehnician service - echipamente electromecanice
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-service-echipamente-electromecanice_bucuresti_5412/](https://www.randstad.ro/locuri-de-munca/tehnician-service-echipamente-electromecanice_bucuresti_5412/)
-- **Location:** București
-- **Status:** scraped
-
-### technical customer support with danish
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/technical-customer-support-with-danish_bucuresti_5132/](https://www.randstad.ro/locuri-de-munca/technical-customer-support-with-danish_bucuresti_5132/)
 - **Location:** București
 - **Status:** scraped
 
