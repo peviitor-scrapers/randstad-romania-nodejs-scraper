@@ -10,15 +10,15 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-10-28 |
+| Last Scraped | 2026-10-29 |
 
-## Current Job Listings (97)
+## Current Job Listings (92)
 
-_Generated: 2026-10-28T12:05:07.411Z_
+_Generated: 2026-10-29T12:15:39.720Z_
 
-### manager vanzari si marketing
+### controlor calitate
 
-- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-vanzari-si-marketing_bucuresti_5155/](https://www.randstad.ro/locuri-de-munca/manager-vanzari-si-marketing_bucuresti_5155/)
+- **URL:** [https://www.randstad.ro/locuri-de-munca/controlor-calitate_bucuresti_5474/](https://www.randstad.ro/locuri-de-munca/controlor-calitate_bucuresti_5474/)
 - **Location:** București
 - **Status:** scraped
 
@@ -196,9 +196,9 @@ _Generated: 2026-10-28T12:05:07.411Z_
 - **Location:** Popesti-Leordeni
 - **Status:** scraped
 
-### junior specialist accounting &amp; finance with italian (bucuresti)
+### manager vanzari si marketing
 
-- **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_4839/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_4839/)
+- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-vanzari-si-marketing_bucuresti_5155/](https://www.randstad.ro/locuri-de-munca/manager-vanzari-si-marketing_bucuresti_5155/)
 - **Location:** București
 - **Status:** scraped
 
@@ -262,21 +262,9 @@ _Generated: 2026-10-28T12:05:07.411Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical support&amp;amp;amp;amp;amp;projects coordinator
+### technical support&amp;amp;amp;amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
-- **Location:** București
-- **Status:** scraped
-
-### accounting specialist (ap)
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/accounting-specialist-ap_bucuresti_5430/](https://www.randstad.ro/locuri-de-munca/accounting-specialist-ap_bucuresti_5430/)
-- **Location:** București
-- **Status:** scraped
-
-### technical customer service admin (english)
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/technical-customer-service-admin-english_bucuresti_4919/](https://www.randstad.ro/locuri-de-munca/technical-customer-service-admin-english_bucuresti_4919/)
 - **Location:** București
 - **Status:** scraped
 
@@ -302,12 +290,6 @@ _Generated: 2026-10-28T12:05:07.411Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5140/](https://www.randstad.ro/locuri-de-munca/operator-productie_sibiu_5140/)
 - **Location:** Sibiu
-- **Status:** scraped
-
-### business developer
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/business-developer_bucuresti_5425/](https://www.randstad.ro/locuri-de-munca/business-developer_bucuresti_5425/)
-- **Location:** București
 - **Status:** scraped
 
 ### business activation manager
@@ -404,14 +386,6 @@ _Generated: 2026-10-28T12:05:07.411Z_
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca, Romania
 - **Tags:** randstad romania srl, inviitor.ro, sofer, profesionist, comunitate
-- **Status:** scraped
-
-### Technical Customer Service Planner with English
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/technical-customer-service-planner-with-english_bucuresti_4920/](https://www.randstad.ro/locuri-de-munca/technical-customer-service-planner-with-english_bucuresti_4920/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, technical, customer, service, planner, with, english
 - **Status:** scraped
 
 ### HR Business Partner / HR Coordinator
@@ -628,14 +602,6 @@ _Generated: 2026-10-28T12:05:07.411Z_
 - **Work Mode:** on-site
 - **Location:** Bucuresti, Romania
 - **Tags:** randstad romania srl, inviitor.ro, manager, calitate, industria, alimentara
-- **Status:** scraped
-
-### Picker-Magaziner
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/picker-magaziner_bucuresti_5211/](https://www.randstad.ro/locuri-de-munca/picker-magaziner_bucuresti_5211/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, picker-magaziner
 - **Status:** scraped
 
 ### Manipulant Marfuri
