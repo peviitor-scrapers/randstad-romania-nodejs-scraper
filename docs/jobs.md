@@ -10,11 +10,23 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-10-29 |
+| Last Scraped | 2026-10-30 |
 
-## Current Job Listings (92)
+## Current Job Listings (90)
 
-_Generated: 2026-10-29T12:15:39.720Z_
+_Generated: 2026-10-30T12:06:08.193Z_
+
+### technical customer support with danish
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/technical-customer-support-with-danish_bucuresti_5475/](https://www.randstad.ro/locuri-de-munca/technical-customer-support-with-danish_bucuresti_5475/)
+- **Location:** București
+- **Status:** scraped
+
+### inginer proiectare instalații sanitare și stingere incendii
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/](https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/)
+- **Location:** București
+- **Status:** scraped
 
 ### controlor calitate
 
@@ -106,12 +118,6 @@ _Generated: 2026-10-29T12:15:39.720Z_
 - **Location:** Voluntari
 - **Status:** scraped
 
-### inginer proiectare instalații sanitare și stingere incendii
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_4992/](https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_4992/)
-- **Location:** București
-- **Status:** scraped
-
 ### tehnician mentenanta cladiri
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-mentenanta-cladiri_bucuresti_5457/](https://www.randstad.ro/locuri-de-munca/tehnician-mentenanta-cladiri_bucuresti_5457/)
@@ -196,12 +202,6 @@ _Generated: 2026-10-29T12:15:39.720Z_
 - **Location:** Popesti-Leordeni
 - **Status:** scraped
 
-### manager vanzari si marketing
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-vanzari-si-marketing_bucuresti_5155/](https://www.randstad.ro/locuri-de-munca/manager-vanzari-si-marketing_bucuresti_5155/)
-- **Location:** București
-- **Status:** scraped
-
 ### electrician intretinere
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-intretinere_slatina_5447/](https://www.randstad.ro/locuri-de-munca/electrician-intretinere_slatina_5447/)
@@ -262,7 +262,7 @@ _Generated: 2026-10-29T12:15:39.720Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical support&amp;amp;amp;amp;amp;amp;projects coordinator
+### technical support&amp;amp;amp;amp;amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
@@ -350,12 +350,6 @@ _Generated: 2026-10-29T12:15:39.720Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/mecanic-intretinere-si-reparatii_bolintin-deal_5407/](https://www.randstad.ro/locuri-de-munca/mecanic-intretinere-si-reparatii_bolintin-deal_5407/)
 - **Location:** Bolintin-Deal
-- **Status:** scraped
-
-### facility engineer cu rsvti
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/facility-engineer-cu-rsvti_ploiesti_5406/](https://www.randstad.ro/locuri-de-munca/facility-engineer-cu-rsvti_ploiesti_5406/)
-- **Location:** Ploiești
 - **Status:** scraped
 
 ### technical customer support cu germana
@@ -594,14 +588,6 @@ _Generated: 2026-10-29T12:15:39.720Z_
 - **Work Mode:** on-site
 - **Location:** Bucuresti, Romania
 - **Tags:** randstad romania srl, inviitor.ro, operator, productie
-- **Status:** scraped
-
-### Manager Calitate in industria alimentara
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-calitate-in-industria-alimentara_bucuresti_5259/](https://www.randstad.ro/locuri-de-munca/manager-calitate-in-industria-alimentara_bucuresti_5259/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, manager, calitate, industria, alimentara
 - **Status:** scraped
 
 ### Manipulant Marfuri
