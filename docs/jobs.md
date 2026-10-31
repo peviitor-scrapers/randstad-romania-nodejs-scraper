@@ -10,11 +10,23 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-10-30 |
+| Last Scraped | 2026-10-31 |
 
-## Current Job Listings (90)
+## Current Job Listings (92)
 
-_Generated: 2026-10-30T12:06:08.193Z_
+_Generated: 2026-10-31T11:39:44.370Z_
+
+### tehnician service
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-service_bucuresti_5477/](https://www.randstad.ro/locuri-de-munca/tehnician-service_bucuresti_5477/)
+- **Location:** București
+- **Status:** scraped
+
+### tehnician service
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-service_bucuresti_5473/](https://www.randstad.ro/locuri-de-munca/tehnician-service_bucuresti_5473/)
+- **Location:** București
+- **Status:** scraped
 
 ### technical customer support with danish
 
@@ -136,6 +148,12 @@ _Generated: 2026-10-30T12:06:08.193Z_
 - **Location:** Bolintin-Deal
 - **Status:** scraped
 
+### lacatus confectii metalice
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/lacatus-confectii-metalice_bucuresti_5286/](https://www.randstad.ro/locuri-de-munca/lacatus-confectii-metalice_bucuresti_5286/)
+- **Location:** București
+- **Status:** scraped
+
 ### sudor mig-mag
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/sudor-mig-mag_bucuresti_5288/](https://www.randstad.ro/locuri-de-munca/sudor-mig-mag_bucuresti_5288/)
@@ -146,12 +164,6 @@ _Generated: 2026-10-30T12:06:08.193Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/lucrator-necalificat-constructii-germania_rostock_5455/](https://www.randstad.ro/locuri-de-munca/lucrator-necalificat-constructii-germania_rostock_5455/)
 - **Location:** Rostock
-- **Status:** scraped
-
-### lacatus confectii metalice
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/lacatus-confectii-metalice_bucuresti_5286/](https://www.randstad.ro/locuri-de-munca/lacatus-confectii-metalice_bucuresti_5286/)
-- **Location:** București
 - **Status:** scraped
 
 ### operator masini automate/manipulant
@@ -262,7 +274,7 @@ _Generated: 2026-10-30T12:06:08.193Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical support&amp;amp;amp;amp;amp;amp;amp;projects coordinator
+### technical support&amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
