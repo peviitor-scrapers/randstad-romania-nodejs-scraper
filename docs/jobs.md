@@ -10,11 +10,11 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-10-31 |
+| Last Scraped | 2026-11-01 |
 
-## Current Job Listings (92)
+## Current Job Listings (91)
 
-_Generated: 2026-10-31T11:39:44.370Z_
+_Generated: 2026-11-01T12:38:49.488Z_
 
 ### tehnician service
 
@@ -274,7 +274,7 @@ _Generated: 2026-10-31T11:39:44.370Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical support&amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
+### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
@@ -504,14 +504,6 @@ _Generated: 2026-10-31T11:39:44.370Z_
 - **Work Mode:** on-site
 - **Location:** Bucuresti, Romania
 - **Tags:** randstad romania srl, inviitor.ro, game, presenter
-- **Status:** scraped
-
-### HR Business Partner
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/hr-business-partner_bucuresti_5264/](https://www.randstad.ro/locuri-de-munca/hr-business-partner_bucuresti_5264/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, business, partner
 - **Status:** scraped
 
 ### Șef de Echipă Producție / Team Leader HVAC. Italia
