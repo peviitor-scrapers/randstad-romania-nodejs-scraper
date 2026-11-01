@@ -1,5 +1,4 @@
-# Default owner
-*       @TheTatu13
-
-# Code owners for specific directories
-/.github/workflows/ @TheTatu13
+# Intentionally no owners.
+# A CODEOWNERS entry makes GitHub request a review, and send an email, on every pull
+# request, including each Dependabot PR in every repo of the fleet. Branch protection
+# does not require code-owner reviews, so nothing depended on it.
