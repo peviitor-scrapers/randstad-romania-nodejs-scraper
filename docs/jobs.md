@@ -10,11 +10,65 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-01 |
+| Last Scraped | 2026-11-02 |
 
-## Current Job Listings (91)
+## Current Job Listings (99)
 
-_Generated: 2026-11-01T12:38:49.488Z_
+_Generated: 2026-11-02T14:43:03.803Z_
+
+### tehnician service hvac/frigotehnist - bucuresti
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-service-hvacfrigotehnist-bucuresti_bucuresti_5488/](https://www.randstad.ro/locuri-de-munca/tehnician-service-hvacfrigotehnist-bucuresti_bucuresti_5488/)
+- **Location:** București
+- **Status:** scraped
+
+### tehnician sisteme securitate romania
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-sisteme-securitate-romania_cluj-napoca_5487/](https://www.randstad.ro/locuri-de-munca/tehnician-sisteme-securitate-romania_cluj-napoca_5487/)
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### sef de schimb
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/sef-de-schimb_bolintin-deal_5486/](https://www.randstad.ro/locuri-de-munca/sef-de-schimb_bolintin-deal_5486/)
+- **Location:** Bolintin-Deal
+- **Status:** scraped
+
+### technical support with english (hybrid)
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/technical-support-with-english-hybrid_bucuresti_5468/](https://www.randstad.ro/locuri-de-munca/technical-support-with-english-hybrid_bucuresti_5468/)
+- **Location:** București
+- **Status:** scraped
+
+### inginer proiectare instalații sanitare și stingere incendii
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/](https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/)
+- **Location:** București
+- **Status:** scraped
+
+### customer service admin with french (hybrid)
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/](https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/)
+- **Location:** București
+- **Status:** scraped
+
+### field sales consultant (hunter)– transilvania
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-transilvania_baia-mare_5484/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-transilvania_baia-mare_5484/)
+- **Location:** Baia-Mare
+- **Status:** scraped
+
+### field sales consultant (hunter) – regiunea moldova
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-moldova_iasi_5483/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-moldova_iasi_5483/)
+- **Location:** Iași
+- **Status:** scraped
+
+### field sales consultant (hunter) – regiunea sud
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/)
+- **Location:** București
+- **Status:** scraped
 
 ### tehnician service
 
@@ -31,12 +85,6 @@ _Generated: 2026-11-01T12:38:49.488Z_
 ### technical customer support with danish
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-customer-support-with-danish_bucuresti_5475/](https://www.randstad.ro/locuri-de-munca/technical-customer-support-with-danish_bucuresti_5475/)
-- **Location:** București
-- **Status:** scraped
-
-### inginer proiectare instalații sanitare și stingere incendii
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/](https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/)
 - **Location:** București
 - **Status:** scraped
 
@@ -100,22 +148,16 @@ _Generated: 2026-11-01T12:38:49.488Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical customer service with french
+### electrician
 
-- **URL:** [https://www.randstad.ro/locuri-de-munca/technical-customer-service-with-french_bucuresti_5460/](https://www.randstad.ro/locuri-de-munca/technical-customer-service-with-french_bucuresti_5460/)
-- **Location:** București
+- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician_oradea_5361/](https://www.randstad.ro/locuri-de-munca/electrician_oradea_5361/)
+- **Location:** Oradea
 - **Status:** scraped
 
 ### stivuitorist - ișalnita
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/stivuitorist-isalnita_corlatesti_5390/](https://www.randstad.ro/locuri-de-munca/stivuitorist-isalnita_corlatesti_5390/)
 - **Location:** Corlatesti
-- **Status:** scraped
-
-### electrician
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician_oradea_5361/](https://www.randstad.ro/locuri-de-munca/electrician_oradea_5361/)
-- **Location:** Oradea
 - **Status:** scraped
 
 ### inginer ofertare - proiecte fotovoltaice
@@ -151,6 +193,12 @@ _Generated: 2026-11-01T12:38:49.488Z_
 ### lacatus confectii metalice
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/lacatus-confectii-metalice_bucuresti_5286/](https://www.randstad.ro/locuri-de-munca/lacatus-confectii-metalice_bucuresti_5286/)
+- **Location:** București
+- **Status:** scraped
+
+### technical customer service with french
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/technical-customer-service-with-french_bucuresti_5460/](https://www.randstad.ro/locuri-de-munca/technical-customer-service-with-french_bucuresti_5460/)
 - **Location:** București
 - **Status:** scraped
 
@@ -274,7 +322,7 @@ _Generated: 2026-11-01T12:38:49.488Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
+### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
