@@ -10,11 +10,23 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-04 |
+| Last Scraped | 2026-11-05 |
 
-## Current Job Listings (82)
+## Current Job Listings (84)
 
-_Generated: 2026-11-04T13:44:52.545Z_
+_Generated: 2026-11-05T13:57:22.531Z_
+
+### ajutor montator tubulatură hvac. franța
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/ajutor-montator-tubulatura-hvac-franta_lile-saint-denis_5497/](https://www.randstad.ro/locuri-de-munca/ajutor-montator-tubulatura-hvac-franta_lile-saint-denis_5497/)
+- **Location:** Lile-Saint-Denis
+- **Status:** scraped
+
+### montator tubulatură hvac. franța
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/montator-tubulatura-hvac-franta_lile-saint-denis_5496/](https://www.randstad.ro/locuri-de-munca/montator-tubulatura-hvac-franta_lile-saint-denis_5496/)
+- **Location:** Lile-Saint-Denis
+- **Status:** scraped
 
 ### hr business partner
 
@@ -88,16 +100,16 @@ _Generated: 2026-11-04T13:44:52.545Z_
 - **Location:** București
 - **Status:** scraped
 
-### field sales consultant (hunter) – regiunea moldova
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-moldova_iasi_5483/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-moldova_iasi_5483/)
-- **Location:** Iași
-- **Status:** scraped
-
 ### field sales consultant (hunter) – regiunea sud
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/)
 - **Location:** București
+- **Status:** scraped
+
+### field sales consultant (hunter) – regiunea moldova
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-moldova_iasi_5483/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-moldova_iasi_5483/)
+- **Location:** Iași
 - **Status:** scraped
 
 ### tehnician service
@@ -310,7 +322,7 @@ _Generated: 2026-11-04T13:44:52.545Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
+### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
