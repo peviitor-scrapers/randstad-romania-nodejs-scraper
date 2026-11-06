@@ -10,11 +10,23 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-05 |
+| Last Scraped | 2026-11-06 |
 
-## Current Job Listings (84)
+## Current Job Listings (85)
 
-_Generated: 2026-11-05T13:57:22.531Z_
+_Generated: 2026-11-06T13:42:46.282Z_
+
+### operatori asamblare
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/operatori-asamblare_brasov_5499/](https://www.randstad.ro/locuri-de-munca/operatori-asamblare_brasov_5499/)
+- **Location:** Brașov
+- **Status:** scraped
+
+### area sales manager - oltenia
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/area-sales-manager-oltenia_craiova_5498/](https://www.randstad.ro/locuri-de-munca/area-sales-manager-oltenia_craiova_5498/)
+- **Location:** Craiova
+- **Status:** scraped
 
 ### ajutor montator tubulatură hvac. franța
 
@@ -46,16 +58,16 @@ _Generated: 2026-11-05T13:57:22.531Z_
 - **Location:** București
 - **Status:** scraped
 
-### tehnician electromecanic și automatizări
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/](https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/)
-- **Location:** Catelu
-- **Status:** scraped
-
 ### electrician - bolintin deal
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/](https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/)
 - **Location:** Bolintin-Deal
+- **Status:** scraped
+
+### tehnician electromecanic și automatizări
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/](https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/)
+- **Location:** Catelu
 - **Status:** scraped
 
 ### tehnician service hvac/frigotehnist - bucuresti
@@ -82,16 +94,16 @@ _Generated: 2026-11-05T13:57:22.531Z_
 - **Location:** București
 - **Status:** scraped
 
-### customer service admin with french (hybrid)
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/](https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/)
-- **Location:** București
-- **Status:** scraped
-
 ### field sales consultant (hunter)– transilvania
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-transilvania_baia-mare_5484/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-transilvania_baia-mare_5484/)
 - **Location:** Baia-Mare
+- **Status:** scraped
+
+### customer service admin with french (hybrid)
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/](https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/)
+- **Location:** București
 - **Status:** scraped
 
 ### inginer proiectare instalații sanitare și stingere incendii
@@ -172,12 +184,6 @@ _Generated: 2026-11-05T13:57:22.531Z_
 - **Location:** București
 - **Status:** scraped
 
-### manager mentenanță
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-mentenanta_bolintin-deal_5463/](https://www.randstad.ro/locuri-de-munca/manager-mentenanta_bolintin-deal_5463/)
-- **Location:** Bolintin-Deal
-- **Status:** scraped
-
 ### regional hr business partner
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/regional-hr-business-partner_bucuresti_5462/](https://www.randstad.ro/locuri-de-munca/regional-hr-business-partner_bucuresti_5462/)
@@ -188,6 +194,12 @@ _Generated: 2026-11-05T13:57:22.531Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/electrician_oradea_5361/](https://www.randstad.ro/locuri-de-munca/electrician_oradea_5361/)
 - **Location:** Oradea
+- **Status:** scraped
+
+### manager mentenanță
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-mentenanta_bolintin-deal_5463/](https://www.randstad.ro/locuri-de-munca/manager-mentenanta_bolintin-deal_5463/)
+- **Location:** Bolintin-Deal
 - **Status:** scraped
 
 ### stivuitorist - ișalnita
@@ -322,7 +334,7 @@ _Generated: 2026-11-05T13:57:22.531Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
+### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
@@ -508,14 +520,6 @@ _Generated: 2026-11-05T13:57:22.531Z_
 - **Work Mode:** on-site
 - **Location:** Veenendaal, Romania
 - **Tags:** randstad romania srl, inviitor.ro, lucrator, depozit, colete, dpd, olanda
-- **Status:** scraped
-
-### Tehnician Service HVAC
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-service-hvac_sibiu_4876/](https://www.randstad.ro/locuri-de-munca/tehnician-service-hvac_sibiu_4876/)
-- **Work Mode:** on-site
-- **Location:** Sibiu, Romania
-- **Tags:** randstad romania srl, inviitor.ro, tehnician, service, hvac
 - **Status:** scraped
 
 ### Operator Productie
