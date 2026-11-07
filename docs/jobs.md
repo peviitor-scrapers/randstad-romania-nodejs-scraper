@@ -10,11 +10,11 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-06 |
+| Last Scraped | 2026-11-07 |
 
-## Current Job Listings (85)
+## Current Job Listings (84)
 
-_Generated: 2026-11-06T13:42:46.282Z_
+_Generated: 2026-11-07T12:25:07.115Z_
 
 ### operatori asamblare
 
@@ -196,12 +196,6 @@ _Generated: 2026-11-06T13:42:46.282Z_
 - **Location:** Oradea
 - **Status:** scraped
 
-### manager mentenanță
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-mentenanta_bolintin-deal_5463/](https://www.randstad.ro/locuri-de-munca/manager-mentenanta_bolintin-deal_5463/)
-- **Location:** Bolintin-Deal
-- **Status:** scraped
-
 ### stivuitorist - ișalnita
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/stivuitorist-isalnita_corlatesti_5390/](https://www.randstad.ro/locuri-de-munca/stivuitorist-isalnita_corlatesti_5390/)
@@ -334,7 +328,7 @@ _Generated: 2026-11-06T13:42:46.282Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
+### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
