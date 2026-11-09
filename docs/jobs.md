@@ -10,11 +10,11 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-08 |
+| Last Scraped | 2026-11-09 |
 
 ## Current Job Listings (84)
 
-_Generated: 2026-11-08T12:43:18.971Z_
+_Generated: 2026-11-09T15:06:34.141Z_
 
 ### operatori asamblare
 
@@ -148,13 +148,13 @@ _Generated: 2026-11-08T12:43:18.971Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting & finance with german (bucuresti/iasi)
+### junior specialist accounting &amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
-- **Location:** Iasi
+- **Location:** Iași
 - **Status:** scraped
 
-### junior specialist accounting & finance with italian_ bucuresti
+### junior specialist accounting &amp; finance with italian_ bucuresti
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_5469/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-italian-bucuresti_bucuresti_5469/)
 - **Location:** București
@@ -172,7 +172,7 @@ _Generated: 2026-11-08T12:43:18.971Z_
 - **Location:** Bolintin-Deal
 - **Status:** scraped
 
-### front office & administrative assistant
+### front office &amp; administrative assistant
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/front-office-administrative-assistant_bolintin-deal_5465/](https://www.randstad.ro/locuri-de-munca/front-office-administrative-assistant_bolintin-deal_5465/)
 - **Location:** Bolintin-Deal
@@ -328,7 +328,7 @@ _Generated: 2026-11-08T12:43:18.971Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
+### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
