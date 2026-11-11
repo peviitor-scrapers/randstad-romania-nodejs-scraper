@@ -10,11 +10,11 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-10 |
+| Last Scraped | 2026-11-11 |
 
 ## Current Job Listings (86)
 
-_Generated: 2026-11-10T14:17:37.733Z_
+_Generated: 2026-11-11T13:30:46.405Z_
 
 ### electromecanic in fabrica
 
@@ -130,16 +130,16 @@ _Generated: 2026-11-10T14:17:37.733Z_
 - **Location:** București
 - **Status:** scraped
 
-### field sales consultant (hunter) – regiunea moldova
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-moldova_iasi_5483/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-moldova_iasi_5483/)
-- **Location:** Iași
-- **Status:** scraped
-
 ### field sales consultant (hunter) – regiunea sud
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/)
 - **Location:** București
+- **Status:** scraped
+
+### field sales consultant (hunter) – regiunea moldova
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-moldova_iasi_5483/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-moldova_iasi_5483/)
+- **Location:** Iași
 - **Status:** scraped
 
 ### tehnician service
@@ -346,7 +346,7 @@ _Generated: 2026-11-10T14:17:37.733Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
+### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
