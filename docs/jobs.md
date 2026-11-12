@@ -10,11 +10,29 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-11 |
+| Last Scraped | 2026-11-12 |
 
 ## Current Job Listings (86)
 
-_Generated: 2026-11-11T13:30:46.405Z_
+_Generated: 2026-11-12T14:35:22.479Z_
+
+### manager proiectare
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/](https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/)
+- **Location:** București
+- **Status:** scraped
+
+### customer service specialist b2b
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-specialist-b2b_bolintin-deal_5504/](https://www.randstad.ro/locuri-de-munca/customer-service-specialist-b2b_bolintin-deal_5504/)
+- **Location:** Bolintin-Deal
+- **Status:** scraped
+
+### tehnician proiectant
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-proiectant_bolintin-deal_5503/](https://www.randstad.ro/locuri-de-munca/tehnician-proiectant_bolintin-deal_5503/)
+- **Location:** Bolintin-Deal
+- **Status:** scraped
 
 ### electromecanic in fabrica
 
@@ -76,16 +94,16 @@ _Generated: 2026-11-11T13:30:46.405Z_
 - **Location:** București
 - **Status:** scraped
 
-### electrician - bolintin deal
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/](https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/)
-- **Location:** Bolintin-Deal
-- **Status:** scraped
-
 ### tehnician electromecanic și automatizări
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/](https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/)
 - **Location:** Catelu
+- **Status:** scraped
+
+### electrician - bolintin deal
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/](https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/)
+- **Location:** Bolintin-Deal
 - **Status:** scraped
 
 ### tehnician service hvac/frigotehnist - bucuresti
@@ -112,6 +130,12 @@ _Generated: 2026-11-11T13:30:46.405Z_
 - **Location:** București
 - **Status:** scraped
 
+### customer service admin with french (hybrid)
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/](https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/)
+- **Location:** București
+- **Status:** scraped
+
 ### inginer proiectare instalații sanitare și stingere incendii
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/](https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/)
@@ -122,12 +146,6 @@ _Generated: 2026-11-11T13:30:46.405Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-transilvania_baia-mare_5484/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-transilvania_baia-mare_5484/)
 - **Location:** Baia-Mare
-- **Status:** scraped
-
-### customer service admin with french (hybrid)
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/](https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/)
-- **Location:** București
 - **Status:** scraped
 
 ### field sales consultant (hunter) – regiunea sud
@@ -190,7 +208,7 @@ _Generated: 2026-11-11T13:30:46.405Z_
 - **Location:** Bolintin-Deal
 - **Status:** scraped
 
-### front office & administrative assistant
+### front office &amp; administrative assistant
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/front-office-administrative-assistant_bolintin-deal_5465/](https://www.randstad.ro/locuri-de-munca/front-office-administrative-assistant_bolintin-deal_5465/)
 - **Location:** Bolintin-Deal
@@ -346,7 +364,7 @@ _Generated: 2026-11-11T13:30:46.405Z_
 - **Location:** București
 - **Status:** scraped
 
-### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
+### technical support&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;projects coordinator
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/](https://www.randstad.ro/locuri-de-munca/technical-supportprojects-coordinator_bucuresti_5431/)
 - **Location:** București
@@ -386,12 +404,6 @@ _Generated: 2026-11-11T13:30:46.405Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/operator-productie-textila-in-bacau_bacau_5423/](https://www.randstad.ro/locuri-de-munca/operator-productie-textila-in-bacau_bacau_5423/)
 - **Location:** Bacau
-- **Status:** scraped
-
-### customer care specialist
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-care-specialist_bucuresti_5421/](https://www.randstad.ro/locuri-de-munca/customer-care-specialist_bucuresti_5421/)
-- **Location:** București
 - **Status:** scraped
 
 ### service coordinator/dispatcher cluj
@@ -536,14 +548,6 @@ _Generated: 2026-11-11T13:30:46.405Z_
 - **Tags:** randstad romania srl, inviitor.ro, operator, productie
 - **Status:** scraped
 
-### Manipulant Marfuri
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/manipulant-marfuri_bucuresti_4720/](https://www.randstad.ro/locuri-de-munca/manipulant-marfuri_bucuresti_4720/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, manipulant, marfuri
-- **Status:** scraped
-
 ### Tehnician Automatist - Satu Mare
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-automatist-satu-mare_satu-mare_4995/](https://www.randstad.ro/locuri-de-munca/tehnician-automatist-satu-mare_satu-mare_4995/)
@@ -558,12 +562,4 @@ _Generated: 2026-11-11T13:30:46.405Z_
 - **Work Mode:** on-site
 - **Location:** Satu Mare, Romania
 - **Tags:** randstad romania srl, inviitor.ro, tehnician, mecatronist, satu, mare
-- **Status:** scraped
-
-### Sales Representative B2B
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-b2b_bucuresti_5186/](https://www.randstad.ro/locuri-de-munca/sales-representative-b2b_bucuresti_5186/)
-- **Work Mode:** on-site
-- **Location:** Bucuresti, Romania
-- **Tags:** randstad romania srl, inviitor.ro, sales, representative, b2b
 - **Status:** scraped
