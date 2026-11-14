@@ -10,11 +10,23 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-13 |
+| Last Scraped | 2026-11-14 |
 
-## Current Job Listings (30)
+## Current Job Listings (32)
 
-_Generated: 2026-11-13T13:53:42.732Z_
+_Generated: 2026-11-14T12:56:29.157Z_
+
+### sales representative (sanitare) - transilvania
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-transilvania_cluj-napoca_5507/](https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-transilvania_cluj-napoca_5507/)
+- **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### sales representative (sanitare) -bucuresti
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-bucuresti_bucuresti_5508/](https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-bucuresti_bucuresti_5508/)
+- **Location:** București
+- **Status:** scraped
 
 ### instalator
 
@@ -22,16 +34,16 @@ _Generated: 2026-11-13T13:53:42.732Z_
 - **Location:** Cernica
 - **Status:** scraped
 
-### manager proiectare
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/](https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/)
-- **Location:** București
-- **Status:** scraped
-
 ### customer service specialist b2b
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-specialist-b2b_bolintin-deal_5504/](https://www.randstad.ro/locuri-de-munca/customer-service-specialist-b2b_bolintin-deal_5504/)
 - **Location:** Bolintin-Deal
+- **Status:** scraped
+
+### manager proiectare
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/](https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/)
+- **Location:** București
 - **Status:** scraped
 
 ### tehnician proiectant
@@ -100,16 +112,16 @@ _Generated: 2026-11-13T13:53:42.732Z_
 - **Location:** București
 - **Status:** scraped
 
-### tehnician electromecanic și automatizări
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/](https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/)
-- **Location:** Catelu
-- **Status:** scraped
-
 ### electrician - bolintin deal
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/](https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/)
 - **Location:** Bolintin-Deal
+- **Status:** scraped
+
+### tehnician electromecanic și automatizări
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/](https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/)
+- **Location:** Catelu
 - **Status:** scraped
 
 ### tehnician service hvac/frigotehnist - bucuresti
@@ -136,12 +148,6 @@ _Generated: 2026-11-13T13:53:42.732Z_
 - **Location:** București
 - **Status:** scraped
 
-### customer service admin with french (hybrid)
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/](https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/)
-- **Location:** București
-- **Status:** scraped
-
 ### inginer proiectare instalații sanitare și stingere incendii
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/](https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/)
@@ -152,6 +158,12 @@ _Generated: 2026-11-13T13:53:42.732Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-transilvania_baia-mare_5484/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-transilvania_baia-mare_5484/)
 - **Location:** Baia-Mare
+- **Status:** scraped
+
+### customer service admin with french (hybrid)
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/](https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/)
+- **Location:** București
 - **Status:** scraped
 
 ### field sales consultant (hunter) – regiunea sud
@@ -190,8 +202,8 @@ _Generated: 2026-11-13T13:53:42.732Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting & finance with german (bucuresti/iasi)
+### junior specialist accounting &amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
-- **Location:** Iasi
+- **Location:** Iași
 - **Status:** scraped
