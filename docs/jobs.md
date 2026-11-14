@@ -14,7 +14,7 @@
 
 ## Current Job Listings (32)
 
-_Generated: 2026-11-14T12:56:29.157Z_
+_Generated: 2026-11-14T15:04:39.499Z_
 
 ### sales representative (sanitare) - transilvania
 
@@ -202,7 +202,7 @@ _Generated: 2026-11-14T12:56:29.157Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting &amp; finance with german (bucuresti/iasi)
+### junior specialist accounting &amp;amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
 - **Location:** Iași
