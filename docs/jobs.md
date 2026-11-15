@@ -10,11 +10,11 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-14 |
+| Last Scraped | 2026-11-15 |
 
 ## Current Job Listings (32)
 
-_Generated: 2026-11-14T15:04:39.499Z_
+_Generated: 2026-11-15T13:24:59.878Z_
 
 ### sales representative (sanitare) - transilvania
 
@@ -202,7 +202,7 @@ _Generated: 2026-11-14T15:04:39.499Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting &amp;amp; finance with german (bucuresti/iasi)
+### junior specialist accounting &amp;amp;amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
 - **Location:** Iași
