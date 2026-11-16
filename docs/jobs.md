@@ -10,11 +10,29 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-15 |
+| Last Scraped | 2026-11-16 |
 
-## Current Job Listings (32)
+## Current Job Listings (35)
 
-_Generated: 2026-11-15T13:24:59.878Z_
+_Generated: 2026-11-16T14:43:19.263Z_
+
+### hr manager
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/hr-manager_pitesti_5509/](https://www.randstad.ro/locuri-de-munca/hr-manager_pitesti_5509/)
+- **Location:** Pitești
+- **Status:** scraped
+
+### agent curățenie - clinică psihologie
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/](https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/)
+- **Location:** București
+- **Status:** scraped
+
+### area sales manager - ag, ph, tr
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/area-sales-manager-ag-ph-tr_pitesti_5510/](https://www.randstad.ro/locuri-de-munca/area-sales-manager-ag-ph-tr_pitesti_5510/)
+- **Location:** Pitești
+- **Status:** scraped
 
 ### sales representative (sanitare) - transilvania
 
@@ -166,16 +184,16 @@ _Generated: 2026-11-15T13:24:59.878Z_
 - **Location:** București
 - **Status:** scraped
 
-### field sales consultant (hunter) – regiunea sud
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/)
-- **Location:** București
-- **Status:** scraped
-
 ### field sales consultant (hunter) – regiunea moldova
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-moldova_iasi_5483/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-moldova_iasi_5483/)
 - **Location:** Iași
+- **Status:** scraped
+
+### field sales consultant (hunter) – regiunea sud
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/)
+- **Location:** București
 - **Status:** scraped
 
 ### tehnician service
@@ -202,7 +220,7 @@ _Generated: 2026-11-15T13:24:59.878Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting &amp;amp;amp; finance with german (bucuresti/iasi)
+### junior specialist accounting &amp;amp;amp;amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
 - **Location:** Iași
