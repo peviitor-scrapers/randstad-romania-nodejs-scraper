@@ -10,11 +10,17 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-16 |
+| Last Scraped | 2026-11-17 |
 
-## Current Job Listings (35)
+## Current Job Listings (37)
 
-_Generated: 2026-11-16T14:43:19.263Z_
+_Generated: 2026-11-17T15:28:14.944Z_
+
+### rebates controller with english
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/rebates-controller-with-english_bucuresti_5512/](https://www.randstad.ro/locuri-de-munca/rebates-controller-with-english_bucuresti_5512/)
+- **Location:** București
+- **Status:** scraped
 
 ### hr manager
 
@@ -34,16 +40,16 @@ _Generated: 2026-11-16T14:43:19.263Z_
 - **Location:** Pitești
 - **Status:** scraped
 
-### sales representative (sanitare) - transilvania
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-transilvania_cluj-napoca_5507/](https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-transilvania_cluj-napoca_5507/)
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
 ### sales representative (sanitare) -bucuresti
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-bucuresti_bucuresti_5508/](https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-bucuresti_bucuresti_5508/)
 - **Location:** București
+- **Status:** scraped
+
+### sales representative (sanitare) - transilvania
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-transilvania_cluj-napoca_5507/](https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-transilvania_cluj-napoca_5507/)
+- **Location:** Cluj-Napoca
 - **Status:** scraped
 
 ### instalator
@@ -86,12 +92,6 @@ _Generated: 2026-11-16T14:43:19.263Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/lucrator-in-bucatarie-cu-experienta_bucuresti_5500/](https://www.randstad.ro/locuri-de-munca/lucrator-in-bucatarie-cu-experienta_bucuresti_5500/)
 - **Location:** București
-- **Status:** scraped
-
-### operatori asamblare
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/operatori-asamblare_brasov_5499/](https://www.randstad.ro/locuri-de-munca/operatori-asamblare_brasov_5499/)
-- **Location:** Brașov
 - **Status:** scraped
 
 ### area sales manager - oltenia
@@ -166,21 +166,27 @@ _Generated: 2026-11-16T14:43:19.263Z_
 - **Location:** București
 - **Status:** scraped
 
-### inginer proiectare instalații sanitare și stingere incendii
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/](https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/)
-- **Location:** București
-- **Status:** scraped
-
 ### field sales consultant (hunter)– transilvania
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-transilvania_baia-mare_5484/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-transilvania_baia-mare_5484/)
 - **Location:** Baia-Mare
 - **Status:** scraped
 
+### inginer proiectare instalații sanitare și stingere incendii
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/](https://www.randstad.ro/locuri-de-munca/inginer-proiectare-instalatii-sanitare-si-stingere-incendii_bucuresti_5476/)
+- **Location:** București
+- **Status:** scraped
+
 ### customer service admin with french (hybrid)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/](https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/)
+- **Location:** București
+- **Status:** scraped
+
+### field sales consultant (hunter) – regiunea sud
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/)
 - **Location:** București
 - **Status:** scraped
 
@@ -190,10 +196,10 @@ _Generated: 2026-11-16T14:43:19.263Z_
 - **Location:** Iași
 - **Status:** scraped
 
-### field sales consultant (hunter) – regiunea sud
+### operatori asamblare
 
-- **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/)
-- **Location:** București
+- **URL:** [https://www.randstad.ro/locuri-de-munca/operatori-asamblare_brasov_5499/](https://www.randstad.ro/locuri-de-munca/operatori-asamblare_brasov_5499/)
+- **Location:** Brașov
 - **Status:** scraped
 
 ### tehnician service
@@ -220,8 +226,14 @@ _Generated: 2026-11-16T14:43:19.263Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting &amp;amp;amp;amp; finance with german (bucuresti/iasi)
+### junior specialist accounting &amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
 - **Location:** Iași
 - **Status:** scraped
+
+### HR Recruiter - Blue Collar
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/hr-recruiter-blue-collar_brasov_4869/](https://www.randstad.ro/locuri-de-munca/hr-recruiter-blue-collar_brasov_4869/)
+- **Location:** Brașov
+- **Status:** tested
