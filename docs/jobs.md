@@ -10,11 +10,17 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-19 |
+| Last Scraped | 2026-11-20 |
 
 ## Current Job Listings (39)
 
-_Generated: 2026-11-19T15:13:02.404Z_
+_Generated: 2026-11-20T14:52:22.848Z_
+
+### technical customer service with french
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/technical-customer-service-with-french_bucuresti_5517/](https://www.randstad.ro/locuri-de-munca/technical-customer-service-with-french_bucuresti_5517/)
+- **Location:** București
+- **Status:** scraped
 
 ### controlor calitate
 
@@ -40,16 +46,16 @@ _Generated: 2026-11-19T15:13:02.404Z_
 - **Location:** București
 - **Status:** scraped
 
-### hr manager
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/hr-manager_pitesti_5509/](https://www.randstad.ro/locuri-de-munca/hr-manager_pitesti_5509/)
-- **Location:** Pitești
-- **Status:** scraped
-
 ### agent curățenie - clinică psihologie
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/](https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/)
 - **Location:** București
+- **Status:** scraped
+
+### hr manager
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/hr-manager_pitesti_5509/](https://www.randstad.ro/locuri-de-munca/hr-manager_pitesti_5509/)
+- **Location:** Pitești
 - **Status:** scraped
 
 ### area sales manager - ag, ph, tr
@@ -196,12 +202,6 @@ _Generated: 2026-11-19T15:13:02.404Z_
 - **Location:** București
 - **Status:** scraped
 
-### office coordinator
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/office-coordinator_bucuresti_5513/](https://www.randstad.ro/locuri-de-munca/office-coordinator_bucuresti_5513/)
-- **Location:** București
-- **Status:** scraped
-
 ### customer service admin with french (hybrid)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/](https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/)
@@ -238,7 +238,7 @@ _Generated: 2026-11-19T15:13:02.404Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
+### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
 - **Location:** Iași
