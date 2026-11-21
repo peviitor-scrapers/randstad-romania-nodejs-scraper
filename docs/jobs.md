@@ -10,11 +10,11 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-20 |
+| Last Scraped | 2026-11-21 |
 
-## Current Job Listings (39)
+## Current Job Listings (38)
 
-_Generated: 2026-11-20T14:52:22.848Z_
+_Generated: 2026-11-21T14:10:43.712Z_
 
 ### technical customer service with french
 
@@ -46,16 +46,16 @@ _Generated: 2026-11-20T14:52:22.848Z_
 - **Location:** București
 - **Status:** scraped
 
-### agent curățenie - clinică psihologie
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/](https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/)
-- **Location:** București
-- **Status:** scraped
-
 ### hr manager
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/hr-manager_pitesti_5509/](https://www.randstad.ro/locuri-de-munca/hr-manager_pitesti_5509/)
 - **Location:** Pitești
+- **Status:** scraped
+
+### agent curățenie - clinică psihologie
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/](https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/)
+- **Location:** București
 - **Status:** scraped
 
 ### area sales manager - ag, ph, tr
@@ -202,12 +202,6 @@ _Generated: 2026-11-20T14:52:22.848Z_
 - **Location:** București
 - **Status:** scraped
 
-### customer service admin with french (hybrid)
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/](https://www.randstad.ro/locuri-de-munca/customer-service-admin-with-french-hybrid_bucuresti_5485/)
-- **Location:** București
-- **Status:** scraped
-
 ### field sales consultant (hunter) – regiunea sud
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/](https://www.randstad.ro/locuri-de-munca/field-sales-consultant-hunter-regiunea-sud_bucuresti_5482/)
@@ -238,7 +232,7 @@ _Generated: 2026-11-20T14:52:22.848Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
+### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
 - **Location:** Iași
