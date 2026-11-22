@@ -10,11 +10,11 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-21 |
+| Last Scraped | 2026-11-22 |
 
 ## Current Job Listings (38)
 
-_Generated: 2026-11-21T14:10:43.712Z_
+_Generated: 2026-11-22T14:00:21.345Z_
 
 ### technical customer service with french
 
@@ -232,7 +232,7 @@ _Generated: 2026-11-21T14:10:43.712Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
+### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
 - **Location:** Iași
