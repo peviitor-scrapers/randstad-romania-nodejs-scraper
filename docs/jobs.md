@@ -10,11 +10,29 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-22 |
+| Last Scraped | 2026-11-23 |
 
-## Current Job Listings (38)
+## Current Job Listings (41)
 
-_Generated: 2026-11-22T14:00:21.345Z_
+_Generated: 2026-11-23T17:19:41.435Z_
+
+### inginer ofertare instalații
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-ofertare-instalatii_bucuresti_5521/](https://www.randstad.ro/locuri-de-munca/inginer-ofertare-instalatii_bucuresti_5521/)
+- **Location:** București
+- **Status:** scraped
+
+### mecanic auto bucuresti
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/mecanic-auto-bucuresti_bucuresti_5520/](https://www.randstad.ro/locuri-de-munca/mecanic-auto-bucuresti_bucuresti_5520/)
+- **Location:** București
+- **Status:** scraped
+
+### expert hidrolog
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/expert-hidrolog_deva_5518/](https://www.randstad.ro/locuri-de-munca/expert-hidrolog_deva_5518/)
+- **Location:** Deva
+- **Status:** scraped
 
 ### technical customer service with french
 
@@ -28,15 +46,15 @@ _Generated: 2026-11-22T14:00:21.345Z_
 - **Location:** Ploiești
 - **Status:** scraped
 
-### underwriter
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/underwriter_bucuresti_5515/](https://www.randstad.ro/locuri-de-munca/underwriter_bucuresti_5515/)
-- **Location:** București
-- **Status:** scraped
-
 ### digital marketing intern
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/digital-marketing-intern_bucuresti_5514/](https://www.randstad.ro/locuri-de-munca/digital-marketing-intern_bucuresti_5514/)
+- **Location:** București
+- **Status:** scraped
+
+### underwriter
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/underwriter_bucuresti_5515/](https://www.randstad.ro/locuri-de-munca/underwriter_bucuresti_5515/)
 - **Location:** București
 - **Status:** scraped
 
@@ -52,28 +70,22 @@ _Generated: 2026-11-22T14:00:21.345Z_
 - **Location:** Pitești
 - **Status:** scraped
 
-### agent curățenie - clinică psihologie
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/](https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/)
-- **Location:** București
-- **Status:** scraped
-
 ### area sales manager - ag, ph, tr
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/area-sales-manager-ag-ph-tr_pitesti_5510/](https://www.randstad.ro/locuri-de-munca/area-sales-manager-ag-ph-tr_pitesti_5510/)
 - **Location:** Pitești
 - **Status:** scraped
 
-### sales representative (sanitare) -bucuresti
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-bucuresti_bucuresti_5508/](https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-bucuresti_bucuresti_5508/)
-- **Location:** București
-- **Status:** scraped
-
 ### sales representative (sanitare) - transilvania
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-transilvania_cluj-napoca_5507/](https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-transilvania_cluj-napoca_5507/)
 - **Location:** Cluj-Napoca
+- **Status:** scraped
+
+### sales representative (sanitare) -bucuresti
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-bucuresti_bucuresti_5508/](https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-bucuresti_bucuresti_5508/)
+- **Location:** București
 - **Status:** scraped
 
 ### instalator
@@ -184,6 +196,12 @@ _Generated: 2026-11-22T14:00:21.345Z_
 - **Location:** Bolintin-Deal
 - **Status:** scraped
 
+### agent curățenie - clinică psihologie
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/](https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/)
+- **Location:** București
+- **Status:** scraped
+
 ### technical support with english (hybrid)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/technical-support-with-english-hybrid_bucuresti_5468/](https://www.randstad.ro/locuri-de-munca/technical-support-with-english-hybrid_bucuresti_5468/)
@@ -232,7 +250,7 @@ _Generated: 2026-11-22T14:00:21.345Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
+### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
 - **Location:** Iași
