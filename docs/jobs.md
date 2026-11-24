@@ -10,11 +10,23 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-23 |
+| Last Scraped | 2026-11-24 |
 
-## Current Job Listings (41)
+## Current Job Listings (42)
 
-_Generated: 2026-11-23T17:19:41.435Z_
+_Generated: 2026-11-24T16:56:45.425Z_
+
+### key account representative
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/key-account-representative_bucuresti_5523/](https://www.randstad.ro/locuri-de-munca/key-account-representative_bucuresti_5523/)
+- **Location:** București
+- **Status:** scraped
+
+### inginer ofertare - proiecte fotovoltaice
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/inginer-ofertare-proiecte-fotovoltaice_voluntari_5522/](https://www.randstad.ro/locuri-de-munca/inginer-ofertare-proiecte-fotovoltaice_voluntari_5522/)
+- **Location:** Voluntari
+- **Status:** scraped
 
 ### inginer ofertare instalații
 
@@ -46,15 +58,15 @@ _Generated: 2026-11-23T17:19:41.435Z_
 - **Location:** Ploiești
 - **Status:** scraped
 
-### digital marketing intern
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/digital-marketing-intern_bucuresti_5514/](https://www.randstad.ro/locuri-de-munca/digital-marketing-intern_bucuresti_5514/)
-- **Location:** București
-- **Status:** scraped
-
 ### underwriter
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/underwriter_bucuresti_5515/](https://www.randstad.ro/locuri-de-munca/underwriter_bucuresti_5515/)
+- **Location:** București
+- **Status:** scraped
+
+### digital marketing intern
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/digital-marketing-intern_bucuresti_5514/](https://www.randstad.ro/locuri-de-munca/digital-marketing-intern_bucuresti_5514/)
 - **Location:** București
 - **Status:** scraped
 
@@ -76,16 +88,16 @@ _Generated: 2026-11-23T17:19:41.435Z_
 - **Location:** Pitești
 - **Status:** scraped
 
-### sales representative (sanitare) - transilvania
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-transilvania_cluj-napoca_5507/](https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-transilvania_cluj-napoca_5507/)
-- **Location:** Cluj-Napoca
-- **Status:** scraped
-
 ### sales representative (sanitare) -bucuresti
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-bucuresti_bucuresti_5508/](https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-bucuresti_bucuresti_5508/)
 - **Location:** București
+- **Status:** scraped
+
+### sales representative (sanitare) - transilvania
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-transilvania_cluj-napoca_5507/](https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-transilvania_cluj-napoca_5507/)
+- **Location:** Cluj-Napoca
 - **Status:** scraped
 
 ### instalator
@@ -94,16 +106,16 @@ _Generated: 2026-11-23T17:19:41.435Z_
 - **Location:** Cernica
 - **Status:** scraped
 
-### customer service specialist b2b
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-specialist-b2b_bolintin-deal_5504/](https://www.randstad.ro/locuri-de-munca/customer-service-specialist-b2b_bolintin-deal_5504/)
-- **Location:** Bolintin-Deal
-- **Status:** scraped
-
 ### manager proiectare
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/](https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/)
 - **Location:** București
+- **Status:** scraped
+
+### customer service specialist b2b
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/customer-service-specialist-b2b_bolintin-deal_5504/](https://www.randstad.ro/locuri-de-munca/customer-service-specialist-b2b_bolintin-deal_5504/)
+- **Location:** Bolintin-Deal
 - **Status:** scraped
 
 ### tehnician proiectant
@@ -166,16 +178,16 @@ _Generated: 2026-11-23T17:19:41.435Z_
 - **Location:** București
 - **Status:** scraped
 
-### electrician - bolintin deal
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/](https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/)
-- **Location:** Bolintin-Deal
-- **Status:** scraped
-
 ### tehnician electromecanic și automatizări
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/](https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/)
 - **Location:** Catelu
+- **Status:** scraped
+
+### electrician - bolintin deal
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/](https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/)
+- **Location:** Bolintin-Deal
 - **Status:** scraped
 
 ### tehnician service hvac/frigotehnist - bucuresti
@@ -194,12 +206,6 @@ _Generated: 2026-11-23T17:19:41.435Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/sef-de-schimb_bolintin-deal_5486/](https://www.randstad.ro/locuri-de-munca/sef-de-schimb_bolintin-deal_5486/)
 - **Location:** Bolintin-Deal
-- **Status:** scraped
-
-### agent curățenie - clinică psihologie
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/](https://www.randstad.ro/locuri-de-munca/agent-curatenie-clinica-psihologie_bucuresti_5511/)
-- **Location:** București
 - **Status:** scraped
 
 ### technical support with english (hybrid)
@@ -250,7 +256,7 @@ _Generated: 2026-11-23T17:19:41.435Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
+### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
 - **Location:** Iași
