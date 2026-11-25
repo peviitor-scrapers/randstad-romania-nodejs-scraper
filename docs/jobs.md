@@ -10,11 +10,23 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-24 |
+| Last Scraped | 2026-11-25 |
 
-## Current Job Listings (42)
+## Current Job Listings (44)
 
-_Generated: 2026-11-24T16:56:45.425Z_
+_Generated: 2026-11-25T16:45:32.775Z_
+
+### operator de introducere si validare date
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/operator-de-introducere-si-validare-date_prejmer_5526/](https://www.randstad.ro/locuri-de-munca/operator-de-introducere-si-validare-date_prejmer_5526/)
+- **Location:** Prejmer
+- **Status:** scraped
+
+### key account manager -fmcg
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/key-account-manager-fmcg_bucuresti_5524/](https://www.randstad.ro/locuri-de-munca/key-account-manager-fmcg_bucuresti_5524/)
+- **Location:** București
+- **Status:** scraped
 
 ### key account representative
 
@@ -82,12 +94,6 @@ _Generated: 2026-11-24T16:56:45.425Z_
 - **Location:** Pitești
 - **Status:** scraped
 
-### area sales manager - ag, ph, tr
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/area-sales-manager-ag-ph-tr_pitesti_5510/](https://www.randstad.ro/locuri-de-munca/area-sales-manager-ag-ph-tr_pitesti_5510/)
-- **Location:** Pitești
-- **Status:** scraped
-
 ### sales representative (sanitare) -bucuresti
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-bucuresti_bucuresti_5508/](https://www.randstad.ro/locuri-de-munca/sales-representative-sanitare-bucuresti_bucuresti_5508/)
@@ -104,12 +110,6 @@ _Generated: 2026-11-24T16:56:45.425Z_
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/instalator_cernica_5506/](https://www.randstad.ro/locuri-de-munca/instalator_cernica_5506/)
 - **Location:** Cernica
-- **Status:** scraped
-
-### manager proiectare
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/](https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/)
-- **Location:** București
 - **Status:** scraped
 
 ### customer service specialist b2b
@@ -178,21 +178,33 @@ _Generated: 2026-11-24T16:56:45.425Z_
 - **Location:** București
 - **Status:** scraped
 
-### tehnician electromecanic și automatizări
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/](https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/)
-- **Location:** Catelu
-- **Status:** scraped
-
 ### electrician - bolintin deal
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/](https://www.randstad.ro/locuri-de-munca/electrician-bolintin-deal_bolintin-deal_5492/)
 - **Location:** Bolintin-Deal
 - **Status:** scraped
 
+### tehnician electromecanic și automatizări
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/](https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/)
+- **Location:** Catelu
+- **Status:** scraped
+
 ### tehnician service hvac/frigotehnist - bucuresti
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-service-hvacfrigotehnist-bucuresti_bucuresti_5488/](https://www.randstad.ro/locuri-de-munca/tehnician-service-hvacfrigotehnist-bucuresti_bucuresti_5488/)
+- **Location:** București
+- **Status:** scraped
+
+### area sales manager - ag, ph, tr
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/area-sales-manager-ag-ph-tr_pitesti_5510/](https://www.randstad.ro/locuri-de-munca/area-sales-manager-ag-ph-tr_pitesti_5510/)
+- **Location:** Pitești
+- **Status:** scraped
+
+### manager proiectare
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/](https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/)
 - **Location:** București
 - **Status:** scraped
 
@@ -256,7 +268,7 @@ _Generated: 2026-11-24T16:56:45.425Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
+### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
 - **Location:** Iași
