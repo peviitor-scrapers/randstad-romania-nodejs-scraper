@@ -116,6 +116,12 @@ export async function querySOLR(cif) {
   const url = `${API_BASE_URL}/scraper/jobs/?cif=${encodeURIComponent(padCif(cif))}&rows=500`;
   const res = await fetchWithRetry(url, { headers: { "User-Agent": userAgent } }, "jobs query");
 
+  // api.peviitor.ro answers 404 {"error":"No jobs for CIF ..."} when the company has no jobs indexed yet:
+  // that is an empty result, not a failure (the delete helpers below already treat 404 the same way).
+  if (res.status === 404) {
+    return { numFound: 0, docs: [] };
+  }
+
   if (!res.ok) {
     const text = await res.text();
     throw new Error(`API jobs query error: ${res.status} - ${text}`);

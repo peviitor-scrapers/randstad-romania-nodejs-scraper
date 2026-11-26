@@ -336,6 +336,9 @@ async function main() {
     console.log(`📊 Jobs found on portals: ${uniquePortalJobs.length}`);
     console.log(`📊 Jobs in SOLR after upsert: ${finalResult.numFound}`);
     console.log(`====================`);
+    if (finalResult.numFound === 0 && transformedPayload.jobs.length > 0) {
+      console.warn("Warning: the API returned no jobs right after the upload (indexing delay?); the upload itself succeeded.");
+    }
 
     console.log("\n=== DONE ===");
     console.log("Scraper completed successfully!");
