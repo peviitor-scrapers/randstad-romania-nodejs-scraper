@@ -10,11 +10,29 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-25 |
+| Last Scraped | 2026-11-26 |
 
-## Current Job Listings (44)
+## Current Job Listings (45)
 
-_Generated: 2026-11-25T16:45:32.775Z_
+_Generated: 2026-11-26T16:21:05.392Z_
+
+### tehnician electromecanic și automatizări
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5531/](https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5531/)
+- **Location:** Catelu
+- **Status:** scraped
+
+### junior contabil - otopeni
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/junior-contabil-otopeni_otopeni_5530/](https://www.randstad.ro/locuri-de-munca/junior-contabil-otopeni_otopeni_5530/)
+- **Location:** Otopeni
+- **Status:** scraped
+
+### mecanic trotinete electrice
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/mecanic-trotinete-electrice_bucuresti_5527/](https://www.randstad.ro/locuri-de-munca/mecanic-trotinete-electrice_bucuresti_5527/)
+- **Location:** București
+- **Status:** scraped
 
 ### operator de introducere si validare date
 
@@ -196,18 +214,6 @@ _Generated: 2026-11-25T16:45:32.775Z_
 - **Location:** București
 - **Status:** scraped
 
-### area sales manager - ag, ph, tr
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/area-sales-manager-ag-ph-tr_pitesti_5510/](https://www.randstad.ro/locuri-de-munca/area-sales-manager-ag-ph-tr_pitesti_5510/)
-- **Location:** Pitești
-- **Status:** scraped
-
-### manager proiectare
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/](https://www.randstad.ro/locuri-de-munca/manager-proiectare_bucuresti_5505/)
-- **Location:** București
-- **Status:** scraped
-
 ### tehnician sisteme securitate romania
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-sisteme-securitate-romania_cluj-napoca_5487/](https://www.randstad.ro/locuri-de-munca/tehnician-sisteme-securitate-romania_cluj-napoca_5487/)
@@ -268,7 +274,7 @@ _Generated: 2026-11-25T16:45:32.775Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
+### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
 - **Location:** Iași
