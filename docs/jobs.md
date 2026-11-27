@@ -10,11 +10,23 @@
 | Location | București |
 | Website | [https://www.randstad.ro](https://www.randstad.ro) |
 | Careers | [https://www.randstad.ro/jobs/](https://www.randstad.ro/jobs/) |
-| Last Scraped | 2026-11-26 |
+| Last Scraped | 2026-11-27 |
 
-## Current Job Listings (45)
+## Current Job Listings (46)
 
-_Generated: 2026-11-26T16:21:05.392Z_
+_Generated: 2026-11-27T16:05:55.149Z_
+
+### chief accountant
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/chief-accountant_ploiesti_5533/](https://www.randstad.ro/locuri-de-munca/chief-accountant_ploiesti_5533/)
+- **Location:** Ploiești
+- **Status:** scraped
+
+### proiect tehnic în italia​. specialiști producție hvac. italia
+
+- **URL:** [https://www.randstad.ro/locuri-de-munca/proiect-tehnic-in-italia-specialisti-productie-hvac-italia_padova_5532/](https://www.randstad.ro/locuri-de-munca/proiect-tehnic-in-italia-specialisti-productie-hvac-italia_padova_5532/)
+- **Location:** Padova
+- **Status:** scraped
 
 ### tehnician electromecanic și automatizări
 
@@ -202,12 +214,6 @@ _Generated: 2026-11-26T16:21:05.392Z_
 - **Location:** Bolintin-Deal
 - **Status:** scraped
 
-### tehnician electromecanic și automatizări
-
-- **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/](https://www.randstad.ro/locuri-de-munca/tehnician-electromecanic-si-automatizari_catelu_5491/)
-- **Location:** Catelu
-- **Status:** scraped
-
 ### tehnician service hvac/frigotehnist - bucuresti
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/tehnician-service-hvacfrigotehnist-bucuresti_bucuresti_5488/](https://www.randstad.ro/locuri-de-munca/tehnician-service-hvacfrigotehnist-bucuresti_bucuresti_5488/)
@@ -274,7 +280,7 @@ _Generated: 2026-11-26T16:21:05.392Z_
 - **Location:** București
 - **Status:** scraped
 
-### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
+### junior specialist accounting &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; finance with german (bucuresti/iasi)
 
 - **URL:** [https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/](https://www.randstad.ro/locuri-de-munca/junior-specialist-accounting-finance-with-german-bucurestiiasi_bucuresti_5472/)
 - **Location:** Iași
